@@ -1,0 +1,7 @@
+<templateSet group="MyGroup">
+  <template name="add" value="/**&#10; * 方法说明:&#10; * &lt;p&gt;&#10; *&#10; * @author gyc&#10; * @version 1.0&#10; * @date ${DATE}&#10; */" description="cmd" toReformat="false" toShortenFQNames="true" deactivated="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>

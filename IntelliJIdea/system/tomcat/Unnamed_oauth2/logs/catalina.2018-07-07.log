@@ -1,0 +1,220 @@
+07-Jul-2018 15:48:38.993 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.0.41
+07-Jul-2018 15:48:38.996 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jan 18 2017 22:19:39 UTC
+07-Jul-2018 15:48:38.996 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.0.41.0
+07-Jul-2018 15:48:38.996 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+07-Jul-2018 15:48:38.996 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+07-Jul-2018 15:48:38.996 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+07-Jul-2018 15:48:38.996 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             D:\Program Files\java\jdk1.8.0_111\jre
+07-Jul-2018 15:48:38.996 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_111-b14
+07-Jul-2018 15:48:38.996 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+07-Jul-2018 15:48:38.996 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Administrator\.IntelliJIdea2018.1\system\tomcat\Unnamed_oauth2
+07-Jul-2018 15:48:38.996 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\Program Files\apache-tomcat-8.0.41
+07-Jul-2018 15:48:38.996 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Administrator\.IntelliJIdea2018.1\system\tomcat\Unnamed_oauth2\conf\logging.properties
+07-Jul-2018 15:48:38.997 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+07-Jul-2018 15:48:38.997 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -agentlib:jdwp=transport=dt_socket,address=127.0.0.1:59430,suspend=y,server=n
+07-Jul-2018 15:48:38.997 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Users\Administrator\.IntelliJIdea2018.1\system\captureAgent\debugger-agent.jar=file:/C:/Users/Administrator/AppData/Local/Temp/capture.props
+07-Jul-2018 15:48:38.997 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote=
+07-Jul-2018 15:48:38.997 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote.port=1099
+07-Jul-2018 15:48:38.997 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote.ssl=false
+07-Jul-2018 15:48:38.997 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote.authenticate=false
+07-Jul-2018 15:48:38.997 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.rmi.server.hostname=127.0.0.1
+07-Jul-2018 15:48:38.997 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+07-Jul-2018 15:48:38.997 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+07-Jul-2018 15:48:38.997 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.endorsed.dirs=D:\Program Files\apache-tomcat-8.0.41\endorsed
+07-Jul-2018 15:48:38.998 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Administrator\.IntelliJIdea2018.1\system\tomcat\Unnamed_oauth2
+07-Jul-2018 15:48:38.998 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\Program Files\apache-tomcat-8.0.41
+07-Jul-2018 15:48:38.998 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\Program Files\apache-tomcat-8.0.41\temp
+07-Jul-2018 15:48:38.998 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: D:\Program Files\java\jdk1.8.0_111\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;%JAVA_HOME%\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\TortoiseGit\bin;C:\Program Files\Git\cmd;%MYSQL_HOME%\bin;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;;.
+07-Jul-2018 15:48:39.127 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+07-Jul-2018 15:48:39.139 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+07-Jul-2018 15:48:39.141 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+07-Jul-2018 15:48:39.142 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+07-Jul-2018 15:48:39.142 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 394 ms
+07-Jul-2018 15:48:39.160 信息 [main] org.apache.catalina.core.StandardService.startInternal Starting service Catalina
+07-Jul-2018 15:48:39.160 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.0.41
+07-Jul-2018 15:48:39.166 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+07-Jul-2018 15:48:39.170 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+07-Jul-2018 15:48:39.171 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 29 ms
+07-Jul-2018 15:48:49.172 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory D:\Program Files\apache-tomcat-8.0.41\webapps\manager
+07-Jul-2018 15:48:49.418 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+07-Jul-2018 15:48:49.455 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory D:\Program Files\apache-tomcat-8.0.41\webapps\manager has finished in 283 ms
+07-Jul-2018 15:49:16.631 信息 [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+07-Jul-2018 15:49:16.631 信息 [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+07-Jul-2018 15:49:16.686 信息 [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+07-Jul-2018 15:49:16.737 信息 [main] org.apache.catalina.core.StandardService.stopInternal Stopping service Catalina
+07-Jul-2018 15:49:16.753 信息 [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+07-Jul-2018 15:49:16.754 信息 [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+07-Jul-2018 15:49:16.754 信息 [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+07-Jul-2018 15:49:16.755 信息 [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
+07-Jul-2018 15:49:25.626 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.0.41
+07-Jul-2018 15:49:25.629 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jan 18 2017 22:19:39 UTC
+07-Jul-2018 15:49:25.629 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.0.41.0
+07-Jul-2018 15:49:25.629 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+07-Jul-2018 15:49:25.629 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+07-Jul-2018 15:49:25.629 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+07-Jul-2018 15:49:25.629 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             D:\Program Files\java\jdk1.8.0_111\jre
+07-Jul-2018 15:49:25.629 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_111-b14
+07-Jul-2018 15:49:25.629 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+07-Jul-2018 15:49:25.629 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Administrator\.IntelliJIdea2018.1\system\tomcat\Unnamed_oauth2
+07-Jul-2018 15:49:25.629 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\Program Files\apache-tomcat-8.0.41
+07-Jul-2018 15:49:25.630 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Administrator\.IntelliJIdea2018.1\system\tomcat\Unnamed_oauth2\conf\logging.properties
+07-Jul-2018 15:49:25.630 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+07-Jul-2018 15:49:25.630 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -agentlib:jdwp=transport=dt_socket,address=127.0.0.1:59430,suspend=y,server=n
+07-Jul-2018 15:49:25.630 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Users\Administrator\.IntelliJIdea2018.1\system\captureAgent\debugger-agent.jar=file:/C:/Users/Administrator/AppData/Local/Temp/capture1.props
+07-Jul-2018 15:49:25.630 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote=
+07-Jul-2018 15:49:25.630 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote.port=1099
+07-Jul-2018 15:49:25.630 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote.ssl=false
+07-Jul-2018 15:49:25.630 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote.authenticate=false
+07-Jul-2018 15:49:25.630 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.rmi.server.hostname=127.0.0.1
+07-Jul-2018 15:49:25.630 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+07-Jul-2018 15:49:25.630 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+07-Jul-2018 15:49:25.630 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.endorsed.dirs=D:\Program Files\apache-tomcat-8.0.41\endorsed
+07-Jul-2018 15:49:25.630 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Administrator\.IntelliJIdea2018.1\system\tomcat\Unnamed_oauth2
+07-Jul-2018 15:49:25.631 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\Program Files\apache-tomcat-8.0.41
+07-Jul-2018 15:49:25.631 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\Program Files\apache-tomcat-8.0.41\temp
+07-Jul-2018 15:49:25.634 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: D:\Program Files\java\jdk1.8.0_111\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;%JAVA_HOME%\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\TortoiseGit\bin;C:\Program Files\Git\cmd;%MYSQL_HOME%\bin;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;;.
+07-Jul-2018 15:49:25.731 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+07-Jul-2018 15:49:25.746 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+07-Jul-2018 15:49:25.748 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+07-Jul-2018 15:49:25.750 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+07-Jul-2018 15:49:25.750 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 338 ms
+07-Jul-2018 15:49:25.770 信息 [main] org.apache.catalina.core.StandardService.startInternal Starting service Catalina
+07-Jul-2018 15:49:25.771 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.0.41
+07-Jul-2018 15:49:25.779 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+07-Jul-2018 15:49:25.784 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+07-Jul-2018 15:49:25.785 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 35 ms
+07-Jul-2018 15:49:35.786 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory D:\Program Files\apache-tomcat-8.0.41\webapps\manager
+07-Jul-2018 15:49:36.002 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+07-Jul-2018 15:49:36.043 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory D:\Program Files\apache-tomcat-8.0.41\webapps\manager has finished in 256 ms
+07-Jul-2018 15:50:16.469 信息 [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+07-Jul-2018 15:50:16.470 信息 [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+07-Jul-2018 15:50:16.522 信息 [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+07-Jul-2018 15:50:16.573 信息 [main] org.apache.catalina.core.StandardService.stopInternal Stopping service Catalina
+07-Jul-2018 15:50:16.583 信息 [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+07-Jul-2018 15:50:16.584 信息 [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+07-Jul-2018 15:50:16.585 信息 [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+07-Jul-2018 15:50:16.585 信息 [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
+07-Jul-2018 15:50:25.985 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.0.41
+07-Jul-2018 15:50:25.988 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jan 18 2017 22:19:39 UTC
+07-Jul-2018 15:50:25.988 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.0.41.0
+07-Jul-2018 15:50:25.988 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+07-Jul-2018 15:50:25.988 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+07-Jul-2018 15:50:25.988 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+07-Jul-2018 15:50:25.988 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             D:\Program Files\java\jdk1.8.0_111\jre
+07-Jul-2018 15:50:25.989 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_111-b14
+07-Jul-2018 15:50:25.989 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+07-Jul-2018 15:50:25.989 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Administrator\.IntelliJIdea2018.1\system\tomcat\Unnamed_oauth2
+07-Jul-2018 15:50:25.989 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\Program Files\apache-tomcat-8.0.41
+07-Jul-2018 15:50:25.989 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Administrator\.IntelliJIdea2018.1\system\tomcat\Unnamed_oauth2\conf\logging.properties
+07-Jul-2018 15:50:25.989 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+07-Jul-2018 15:50:25.989 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -agentlib:jdwp=transport=dt_socket,address=127.0.0.1:59430,suspend=y,server=n
+07-Jul-2018 15:50:25.989 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Users\Administrator\.IntelliJIdea2018.1\system\captureAgent\debugger-agent.jar=file:/C:/Users/Administrator/AppData/Local/Temp/capture2.props
+07-Jul-2018 15:50:25.989 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote=
+07-Jul-2018 15:50:25.990 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote.port=1099
+07-Jul-2018 15:50:25.990 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote.ssl=false
+07-Jul-2018 15:50:25.990 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote.authenticate=false
+07-Jul-2018 15:50:25.990 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.rmi.server.hostname=127.0.0.1
+07-Jul-2018 15:50:25.990 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+07-Jul-2018 15:50:25.990 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+07-Jul-2018 15:50:25.990 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.endorsed.dirs=D:\Program Files\apache-tomcat-8.0.41\endorsed
+07-Jul-2018 15:50:25.990 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Administrator\.IntelliJIdea2018.1\system\tomcat\Unnamed_oauth2
+07-Jul-2018 15:50:25.990 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\Program Files\apache-tomcat-8.0.41
+07-Jul-2018 15:50:25.990 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\Program Files\apache-tomcat-8.0.41\temp
+07-Jul-2018 15:50:25.994 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: D:\Program Files\java\jdk1.8.0_111\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;%JAVA_HOME%\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\TortoiseGit\bin;C:\Program Files\Git\cmd;%MYSQL_HOME%\bin;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;;.
+07-Jul-2018 15:50:26.088 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+07-Jul-2018 15:50:26.100 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+07-Jul-2018 15:50:26.102 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+07-Jul-2018 15:50:26.103 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+07-Jul-2018 15:50:26.103 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 323 ms
+07-Jul-2018 15:50:26.120 信息 [main] org.apache.catalina.core.StandardService.startInternal Starting service Catalina
+07-Jul-2018 15:50:26.120 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.0.41
+07-Jul-2018 15:50:26.127 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+07-Jul-2018 15:50:26.133 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+07-Jul-2018 15:50:26.133 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 30 ms
+07-Jul-2018 15:50:36.133 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory D:\Program Files\apache-tomcat-8.0.41\webapps\manager
+07-Jul-2018 15:50:36.377 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+07-Jul-2018 15:50:36.416 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory D:\Program Files\apache-tomcat-8.0.41\webapps\manager has finished in 283 ms
+07-Jul-2018 16:15:17.816 信息 [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+07-Jul-2018 16:15:17.817 信息 [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+07-Jul-2018 16:15:17.870 信息 [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+07-Jul-2018 16:15:17.921 信息 [main] org.apache.catalina.core.StandardService.stopInternal Stopping service Catalina
+07-Jul-2018 16:15:17.933 信息 [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+07-Jul-2018 16:15:17.934 信息 [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+07-Jul-2018 16:15:17.934 信息 [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+07-Jul-2018 16:15:17.935 信息 [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
+07-Jul-2018 16:15:38.715 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.0.41
+07-Jul-2018 16:15:38.717 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jan 18 2017 22:19:39 UTC
+07-Jul-2018 16:15:38.717 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.0.41.0
+07-Jul-2018 16:15:38.717 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+07-Jul-2018 16:15:38.717 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+07-Jul-2018 16:15:38.718 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+07-Jul-2018 16:15:38.718 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             D:\Program Files\java\jdk1.8.0_111\jre
+07-Jul-2018 16:15:38.718 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_111-b14
+07-Jul-2018 16:15:38.718 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+07-Jul-2018 16:15:38.718 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Administrator\.IntelliJIdea2018.1\system\tomcat\Unnamed_oauth2
+07-Jul-2018 16:15:38.718 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\Program Files\apache-tomcat-8.0.41
+07-Jul-2018 16:15:38.718 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Administrator\.IntelliJIdea2018.1\system\tomcat\Unnamed_oauth2\conf\logging.properties
+07-Jul-2018 16:15:38.718 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+07-Jul-2018 16:15:38.718 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -agentlib:jdwp=transport=dt_socket,address=127.0.0.1:59430,suspend=y,server=n
+07-Jul-2018 16:15:38.718 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Users\Administrator\.IntelliJIdea2018.1\system\captureAgent\debugger-agent.jar=file:/C:/Users/Administrator/AppData/Local/Temp/capture5853.props
+07-Jul-2018 16:15:38.719 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote=
+07-Jul-2018 16:15:38.719 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote.port=1099
+07-Jul-2018 16:15:38.719 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote.ssl=false
+07-Jul-2018 16:15:38.719 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote.authenticate=false
+07-Jul-2018 16:15:38.719 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.rmi.server.hostname=127.0.0.1
+07-Jul-2018 16:15:38.719 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+07-Jul-2018 16:15:38.719 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+07-Jul-2018 16:15:38.719 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.endorsed.dirs=D:\Program Files\apache-tomcat-8.0.41\endorsed
+07-Jul-2018 16:15:38.719 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Administrator\.IntelliJIdea2018.1\system\tomcat\Unnamed_oauth2
+07-Jul-2018 16:15:38.719 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\Program Files\apache-tomcat-8.0.41
+07-Jul-2018 16:15:38.719 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\Program Files\apache-tomcat-8.0.41\temp
+07-Jul-2018 16:15:38.722 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: D:\Program Files\java\jdk1.8.0_111\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;%JAVA_HOME%\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\TortoiseGit\bin;C:\Program Files\Git\cmd;%MYSQL_HOME%\bin;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;;.
+07-Jul-2018 16:15:38.825 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+07-Jul-2018 16:15:38.838 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+07-Jul-2018 16:15:38.839 信息 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+07-Jul-2018 16:15:38.843 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+07-Jul-2018 16:15:38.843 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 357 ms
+07-Jul-2018 16:15:38.864 信息 [main] org.apache.catalina.core.StandardService.startInternal Starting service Catalina
+07-Jul-2018 16:15:38.864 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.0.41
+07-Jul-2018 16:15:38.869 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+07-Jul-2018 16:15:38.874 信息 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+07-Jul-2018 16:15:38.874 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 31 ms
+07-Jul-2018 16:15:40.425 信息 [RMI TCP Connection(4)-127.0.0.1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+07-Jul-2018 16:15:40.618 信息 [RMI TCP Connection(4)-127.0.0.1] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization started
+07-Jul-2018 16:15:40.623 信息 [RMI TCP Connection(4)-127.0.0.1] org.springframework.web.context.support.AnnotationConfigWebApplicationContext.prepareRefresh Refreshing Root WebApplicationContext: startup date [Sat Jul 07 16:15:40 CST 2018]; root of context hierarchy
+07-Jul-2018 16:15:40.699 信息 [RMI TCP Connection(4)-127.0.0.1] org.springframework.web.context.support.AnnotationConfigWebApplicationContext.loadBeanDefinitions Registering annotated classes: [class com.lxg.spring.configuration.SpringConfiguration]
+07-Jul-2018 16:15:41.650 信息 [RMI TCP Connection(4)-127.0.0.1] org.springframework.security.oauth2.provider.endpoint.FrameworkEndpointHandlerMapping.register Mapped "{[/oauth/authorize],methods=[POST],params=[user_oauth_approval]}" onto public org.springframework.web.servlet.View org.springframework.security.oauth2.provider.endpoint.AuthorizationEndpoint.approveOrDeny(java.util.Map<java.lang.String, java.lang.String>,java.util.Map<java.lang.String, ?>,org.springframework.web.bind.support.SessionStatus,java.security.Principal)
+07-Jul-2018 16:15:41.663 信息 [RMI TCP Connection(4)-127.0.0.1] org.springframework.security.oauth2.provider.endpoint.FrameworkEndpointHandlerMapping.register Mapped "{[/oauth/authorize]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.security.oauth2.provider.endpoint.AuthorizationEndpoint.authorize(java.util.Map<java.lang.String, java.lang.Object>,java.util.Map<java.lang.String, java.lang.String>,org.springframework.web.bind.support.SessionStatus,java.security.Principal)
+07-Jul-2018 16:15:41.664 信息 [RMI TCP Connection(4)-127.0.0.1] org.springframework.security.oauth2.provider.endpoint.FrameworkEndpointHandlerMapping.register Mapped "{[/oauth/token],methods=[GET]}" onto public org.springframework.http.ResponseEntity<org.springframework.security.oauth2.common.OAuth2AccessToken> org.springframework.security.oauth2.provider.endpoint.TokenEndpoint.getAccessToken(java.security.Principal,java.util.Map<java.lang.String, java.lang.String>) throws org.springframework.web.HttpRequestMethodNotSupportedException
+07-Jul-2018 16:15:41.664 信息 [RMI TCP Connection(4)-127.0.0.1] org.springframework.security.oauth2.provider.endpoint.FrameworkEndpointHandlerMapping.register Mapped "{[/oauth/token],methods=[POST]}" onto public org.springframework.http.ResponseEntity<org.springframework.security.oauth2.common.OAuth2AccessToken> org.springframework.security.oauth2.provider.endpoint.TokenEndpoint.postAccessToken(java.security.Principal,java.util.Map<java.lang.String, java.lang.String>) throws org.springframework.web.HttpRequestMethodNotSupportedException
+07-Jul-2018 16:15:41.664 信息 [RMI TCP Connection(4)-127.0.0.1] org.springframework.security.oauth2.provider.endpoint.FrameworkEndpointHandlerMapping.register Mapped "{[/oauth/check_token]}" onto public java.util.Map<java.lang.String, ?> org.springframework.security.oauth2.provider.endpoint.CheckTokenEndpoint.checkToken(java.lang.String)
+07-Jul-2018 16:15:41.665 信息 [RMI TCP Connection(4)-127.0.0.1] org.springframework.security.oauth2.provider.endpoint.FrameworkEndpointHandlerMapping.register Mapped "{[/oauth/confirm_access]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.security.oauth2.provider.endpoint.WhitelabelApprovalEndpoint.getAccessConfirmation(java.util.Map<java.lang.String, java.lang.Object>,javax.servlet.http.HttpServletRequest) throws java.lang.Exception
+07-Jul-2018 16:15:41.665 信息 [RMI TCP Connection(4)-127.0.0.1] org.springframework.security.oauth2.provider.endpoint.FrameworkEndpointHandlerMapping.register Mapped "{[/oauth/error]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.security.oauth2.provider.endpoint.WhitelabelErrorEndpoint.handleError(javax.servlet.http.HttpServletRequest)
+07-Jul-2018 16:15:42.294 信息 [RMI TCP Connection(4)-127.0.0.1] org.springframework.security.web.DefaultSecurityFilterChain.<init> Creating filter chain: OrRequestMatcher [requestMatchers=[Ant [pattern='/oauth/token'], Ant [pattern='/oauth/token_key'], Ant [pattern='/oauth/check_token']]], [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@4c48269d, org.springframework.security.web.context.SecurityContextPersistenceFilter@4cccdab2, org.springframework.security.web.header.HeaderWriterFilter@26d342c3, org.springframework.security.web.authentication.logout.LogoutFilter@9680c8a, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@336facbb, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@3b20e816, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@b6f71e1, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@696f82e7, org.springframework.security.web.session.SessionManagementFilter@4ae35e9a, org.springframework.security.web.access.ExceptionTranslationFilter@2b2f9332, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@383db678]
+07-Jul-2018 16:15:42.332 信息 [RMI TCP Connection(4)-127.0.0.1] org.springframework.security.web.DefaultSecurityFilterChain.<init> Creating filter chain: OrRequestMatcher [requestMatchers=[Ant [pattern='/user*/**']]], [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@4792c9c3, org.springframework.security.web.context.SecurityContextPersistenceFilter@7205263, org.springframework.security.web.header.HeaderWriterFilter@4885ca9d, org.springframework.security.web.authentication.logout.LogoutFilter@5e74219d, org.springframework.security.oauth2.provider.authentication.OAuth2AuthenticationProcessingFilter@443f52db, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@b718a1d, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@6dc678cc, org.springframework.security.web.session.SessionManagementFilter@56acb5bc, org.springframework.security.web.access.ExceptionTranslationFilter@27b57d1f, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@7905e5b2]
+07-Jul-2018 16:15:42.347 信息 [RMI TCP Connection(4)-127.0.0.1] org.springframework.security.web.DefaultSecurityFilterChain.<init> Creating filter chain: org.springframework.security.web.util.matcher.AnyRequestMatcher@1, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@4241ee8d, org.springframework.security.web.context.SecurityContextPersistenceFilter@4b7d6b74, org.springframework.security.web.header.HeaderWriterFilter@7f22fef7, org.springframework.security.web.csrf.CsrfFilter@728a8900, org.springframework.security.web.authentication.logout.LogoutFilter@710989e4, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@67ceb99b, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@ff326d3, org.springframework.security.web.session.SessionManagementFilter@6393a2f3, org.springframework.security.web.access.ExceptionTranslationFilter@47bd7454, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@6837955b]
+07-Jul-2018 16:15:42.536 信息 [RMI TCP Connection(4)-127.0.0.1] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.register Mapped "{[/user/],methods=[POST]}" onto public org.springframework.http.ResponseEntity<java.lang.Void> com.lxg.spring.controller.HelloWorldRestController.createUser(com.lxg.spring.model.User,org.springframework.web.util.UriComponentsBuilder)
+07-Jul-2018 16:15:42.537 信息 [RMI TCP Connection(4)-127.0.0.1] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.register Mapped "{[/user/{id}],methods=[GET],produces=[application/json || application/xml]}" onto public org.springframework.http.ResponseEntity<com.lxg.spring.model.User> com.lxg.spring.controller.HelloWorldRestController.getUser(long)
+07-Jul-2018 16:15:42.537 信息 [RMI TCP Connection(4)-127.0.0.1] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.register Mapped "{[/user/{id}],methods=[PUT]}" onto public org.springframework.http.ResponseEntity<com.lxg.spring.model.User> com.lxg.spring.controller.HelloWorldRestController.updateUser(long,com.lxg.spring.model.User)
+07-Jul-2018 16:15:42.537 信息 [RMI TCP Connection(4)-127.0.0.1] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.register Mapped "{[/user/],methods=[DELETE]}" onto public org.springframework.http.ResponseEntity<com.lxg.spring.model.User> com.lxg.spring.controller.HelloWorldRestController.deleteAllUsers()
+07-Jul-2018 16:15:42.538 信息 [RMI TCP Connection(4)-127.0.0.1] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.register Mapped "{[/user/{id}],methods=[DELETE]}" onto public org.springframework.http.ResponseEntity<com.lxg.spring.model.User> com.lxg.spring.controller.HelloWorldRestController.deleteUser(long)
+07-Jul-2018 16:15:42.538 信息 [RMI TCP Connection(4)-127.0.0.1] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.register Mapped "{[/userList/],methods=[POST]}" onto public org.springframework.http.ResponseEntity<java.util.List<com.lxg.spring.model.User>> com.lxg.spring.controller.HelloWorldRestController.listAllUsers()
+07-Jul-2018 16:15:42.629 信息 [RMI TCP Connection(4)-127.0.0.1] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.initControllerAdviceCache Looking for @ControllerAdvice: Root WebApplicationContext: startup date [Sat Jul 07 16:15:40 CST 2018]; root of context hierarchy
+07-Jul-2018 16:15:42.758 信息 [RMI TCP Connection(4)-127.0.0.1] org.springframework.web.context.ContextLoader.initWebApplicationContext Root WebApplicationContext: initialization completed in 2139 ms
+07-Jul-2018 16:15:42.772 信息 [RMI TCP Connection(4)-127.0.0.1] org.springframework.web.servlet.DispatcherServlet.initServletBean FrameworkServlet 'dispatcher': initialization started
+07-Jul-2018 16:15:42.775 信息 [RMI TCP Connection(4)-127.0.0.1] org.springframework.web.context.support.AnnotationConfigWebApplicationContext.prepareRefresh Refreshing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Sat Jul 07 16:15:42 CST 2018]; parent: Root WebApplicationContext
+07-Jul-2018 16:15:42.826 信息 [RMI TCP Connection(4)-127.0.0.1] org.springframework.web.servlet.DispatcherServlet.initServletBean FrameworkServlet 'dispatcher': initialization completed in 54 ms
+07-Jul-2018 16:15:48.871 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory D:\Program Files\apache-tomcat-8.0.41\webapps\manager
+07-Jul-2018 16:15:48.918 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+07-Jul-2018 16:15:48.930 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory D:\Program Files\apache-tomcat-8.0.41\webapps\manager has finished in 57 ms
+07-Jul-2018 16:16:19.620 信息 [http-nio-8080-exec-1] org.springframework.security.oauth2.provider.endpoint.AuthorizationEndpoint.handleClientRegistrationException Handling ClientRegistrationException error: No client with requested id: null
+07-Jul-2018 16:29:29.978 信息 [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+07-Jul-2018 16:29:29.978 信息 [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+07-Jul-2018 16:29:30.032 信息 [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
+07-Jul-2018 16:29:30.083 信息 [main] org.apache.catalina.core.StandardService.stopInternal Stopping service Catalina
+07-Jul-2018 16:29:30.085 信息 [localhost-startStop-2] org.springframework.web.context.support.AnnotationConfigWebApplicationContext.doClose Closing WebApplicationContext for namespace 'dispatcher-servlet': startup date [Sat Jul 07 16:15:42 CST 2018]; parent: Root WebApplicationContext
+07-Jul-2018 16:29:30.088 信息 [localhost-startStop-2] org.springframework.web.context.support.AnnotationConfigWebApplicationContext.doClose Closing Root WebApplicationContext: startup date [Sat Jul 07 16:15:40 CST 2018]; root of context hierarchy
+07-Jul-2018 16:29:30.101 信息 [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+07-Jul-2018 16:29:30.102 信息 [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
+07-Jul-2018 16:29:30.102 信息 [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+07-Jul-2018 16:29:30.103 信息 [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]

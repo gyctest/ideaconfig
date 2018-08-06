@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="build-jar-configurations-to-artifacts" />
+    <converter id="detach-cdi-facet-from-module" />
+    <converter id="detach-jsf-facet-from-module" />
+    <converter id="google-app-engine-facet" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+    <converter id="gwt-packaging" />
+    <converter id="javaee-module-to-facets" />
+    <converter id="javaee-packaging-to-artifacts" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+    <converter id="junit-to-android-junit-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="D:\projects\security\uaa-zuul\.idea\compiler.xml" timestamp="1531578784287" />
+    <file path="D:\projects\security\uaa-zuul\.idea\encodings.xml" timestamp="1531578784302" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__antlr_antlr_2_7_7.xml" timestamp="1531578784348" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__aopalliance_aopalliance_1_0.xml" timestamp="1531578784364" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__ch_qos_logback_logback_classic_1_1_11.xml" timestamp="1531578784380" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__ch_qos_logback_logback_core_1_1_11.xml" timestamp="1531578784400" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__com_fasterxml_classmate_1_3_4.xml" timestamp="1531578784417" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" timestamp="1531578784439" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_core_2_8_10.xml" timestamp="1531578784465" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_databind_2_8_10.xml" timestamp="1531578784488" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_xml_2_8_10.xml" timestamp="1531578784519" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__com_fasterxml_jackson_module_jackson_module_afterburner_2_8_10.xml" timestamp="1531578784554" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_8_10.xml" timestamp="1531578784584" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__com_fasterxml_woodstox_woodstox_core_5_0_3.xml" timestamp="1531578784605" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__com_google_code_findbugs_jsr305_3_0_1.xml" timestamp="1531578784625" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__com_google_code_gson_gson_2_8_2.xml" timestamp="1531578784643" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__com_google_guava_guava_18_0.xml" timestamp="1531578784665" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__com_google_inject_guice_4_1_0.xml" timestamp="1531578784685" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__com_jayway_jsonpath_json_path_2_2_0.xml" timestamp="1531578784709" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__com_netflix_archaius_archaius_core_0_7_4.xml" timestamp="1531578784724" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__com_netflix_eureka_eureka_client_1_6_2.xml" timestamp="1531578784744" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__com_netflix_eureka_eureka_core_1_6_2.xml" timestamp="1531578784761" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__com_netflix_hystrix_hystrix_core_1_5_10.xml" timestamp="1531578784775" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__com_netflix_hystrix_hystrix_core_1_5_12.xml" timestamp="1531578784794" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__com_netflix_hystrix_hystrix_javanica_1_5_12.xml" timestamp="1531578784814" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__com_netflix_hystrix_hystrix_metrics_event_stream_1_5_12.xml" timestamp="1531578784837" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__com_netflix_hystrix_hystrix_serialization_1_5_12.xml" timestamp="1531578784854" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__com_netflix_netflix_commons_netflix_commons_util_0_1_1.xml" timestamp="1531578784874" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__com_netflix_netflix_commons_netflix_eventbus_0_3_0.xml" timestamp="1531578784895" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__com_netflix_netflix_commons_netflix_infix_0_3_0.xml" timestamp="1531578784921" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__com_netflix_netflix_commons_netflix_statistics_0_1_1.xml" timestamp="1531578784942" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__com_netflix_ribbon_ribbon_2_2_2.xml" timestamp="1531578784958" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__com_netflix_ribbon_ribbon_core_2_2_2.xml" timestamp="1531578784976" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__com_netflix_ribbon_ribbon_eureka_2_2_2.xml" timestamp="1531578784997" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__com_netflix_ribbon_ribbon_httpclient_2_2_2.xml" timestamp="1531578785014" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__com_netflix_ribbon_ribbon_loadbalancer_2_2_2.xml" timestamp="1531578785037" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__com_netflix_ribbon_ribbon_transport_2_2_2.xml" timestamp="1531578785057" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__com_netflix_servo_servo_core_0_10_1.xml" timestamp="1531578785080" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__com_netflix_servo_servo_internal_0_10_1.xml" timestamp="1531578785093" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__com_netflix_zuul_zuul_core_1_3_0.xml" timestamp="1531578785109" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__com_sun_jersey_contribs_jersey_apache_client4_1_19_1.xml" timestamp="1531578785125" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__com_sun_jersey_jersey_client_1_19_1.xml" timestamp="1531578785140" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__com_sun_jersey_jersey_core_1_19_1.xml" timestamp="1531578785154" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__com_sun_jersey_jersey_server_1_19_1.xml" timestamp="1531578785165" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__com_sun_jersey_jersey_servlet_1_19_1.xml" timestamp="1531578785176" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__com_thoughtworks_xstream_xstream_1_4_9.xml" timestamp="1531578785227" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" timestamp="1531578785242" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__commons_codec_commons_codec_1_10.xml" timestamp="1531578785255" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__commons_collections_commons_collections_3_2_2.xml" timestamp="1531578785272" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__commons_configuration_commons_configuration_1_8.xml" timestamp="1531578785291" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__commons_io_commons_io_2_4.xml" timestamp="1531578785321" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__commons_jxpath_commons_jxpath_1_3.xml" timestamp="1531578785340" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__commons_lang_commons_lang_2_6.xml" timestamp="1531578785359" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__dom4j_dom4j_1_6_1.xml" timestamp="1531578785374" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__io_github_openfeign_feign_core_9_5_0.xml" timestamp="1531578785391" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__io_github_openfeign_feign_hystrix_9_5_0.xml" timestamp="1531578785409" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__io_github_openfeign_feign_slf4j_9_5_0.xml" timestamp="1531578785431" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__io_netty_netty_buffer_4_0_27_Final.xml" timestamp="1531578785450" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__io_netty_netty_codec_4_0_27_Final.xml" timestamp="1531578785467" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__io_netty_netty_codec_http_4_0_27_Final.xml" timestamp="1531578785479" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__io_netty_netty_common_4_0_27_Final.xml" timestamp="1531578785490" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__io_netty_netty_handler_4_0_27_Final.xml" timestamp="1531578785504" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__io_netty_netty_transport_4_0_27_Final.xml" timestamp="1531578785515" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__io_netty_netty_transport_native_epoll_4_0_27_Final.xml" timestamp="1531578785524" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__io_reactivex_rxjava_1_1_10.xml" timestamp="1531578785534" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__io_reactivex_rxnetty_0_4_9.xml" timestamp="1531578785548" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__io_reactivex_rxnetty_contexts_0_4_9.xml" timestamp="1531578785558" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__io_reactivex_rxnetty_servo_0_4_9.xml" timestamp="1531578785570" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__javax_inject_javax_inject_1.xml" timestamp="1531578785582" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__javax_transaction_javax_transaction_api_1_2.xml" timestamp="1531578785592" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__javax_validation_validation_api_1_1_0_Final.xml" timestamp="1531578785602" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__javax_ws_rs_jsr311_api_1_1_1.xml" timestamp="1531578785613" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__javax_xml_stream_stax_api_1_0_2.xml" timestamp="1531578785625" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__joda_time_joda_time_2_9_9.xml" timestamp="1531578785635" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__junit_junit_4_12.xml" timestamp="1531578785645" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__mysql_mysql_connector_java_5_1_45.xml" timestamp="1531580512773" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__net_minidev_accessors_smart_1_1.xml" timestamp="1531578785655" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__net_minidev_json_smart_2_2_1.xml" timestamp="1531578785666" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_antlr_antlr_runtime_3_4.xml" timestamp="1531578785680" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_antlr_stringtemplate_3_2_1.xml" timestamp="1531578785689" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_apache_commons_commons_lang3_3_1.xml" timestamp="1531578785698" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_apache_commons_commons_math_2_2.xml" timestamp="1531578785709" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_apache_commons_commons_pool2_2_4_3.xml" timestamp="1531578785718" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_apache_httpcomponents_httpclient_4_5_5.xml" timestamp="1531578785727" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_apache_httpcomponents_httpcore_4_4_9.xml" timestamp="1531578785737" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_27.xml" timestamp="1531578785748" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_27.xml" timestamp="1531578785761" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_27.xml" timestamp="1531578785773" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_apache_tomcat_tomcat_annotations_api_8_5_27.xml" timestamp="1531578785785" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_apache_tomcat_tomcat_jdbc_8_5_27.xml" timestamp="1531578785797" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_apache_tomcat_tomcat_juli_8_5_27.xml" timestamp="1531578785809" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_aspectj_aspectjweaver_1_8_13.xml" timestamp="1531578785818" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_assertj_assertj_core_2_6_0.xml" timestamp="1531578785833" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_bouncycastle_bcpkix_jdk15on_1_55.xml" timestamp="1531578785847" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_bouncycastle_bcpkix_jdk15on_1_56.xml" timestamp="1531578785858" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_bouncycastle_bcprov_jdk15on_1_55.xml" timestamp="1531578785871" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_bouncycastle_bcprov_jdk15on_1_56.xml" timestamp="1531578785883" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" timestamp="1531578785901" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" timestamp="1531578785913" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_codehaus_jettison_jettison_1_3_7.xml" timestamp="1531578785923" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_codehaus_woodstox_stax2_api_3_1_4.xml" timestamp="1531578785932" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_codehaus_woodstox_woodstox_core_asl_4_4_1.xml" timestamp="1531578785945" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_freemarker_freemarker_2_3_27_incubating.xml" timestamp="1531578785955" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_hamcrest_hamcrest_core_1_3.xml" timestamp="1531578785964" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_hamcrest_hamcrest_library_1_3.xml" timestamp="1531578785980" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_hdrhistogram_HdrHistogram_2_1_9.xml" timestamp="1531578785991" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_hibernate_common_hibernate_commons_annotations_5_0_1_Final.xml" timestamp="1531578786003" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_hibernate_hibernate_core_5_0_12_Final.xml" timestamp="1531578786016" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_hibernate_hibernate_entitymanager_5_0_12_Final.xml" timestamp="1531578786036" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_hibernate_hibernate_envers_5_0_12_Final.xml" timestamp="1531578786050" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_hibernate_hibernate_validator_5_3_6_Final.xml" timestamp="1531578786064" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_0_Final.xml" timestamp="1531578786079" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_javassist_javassist_3_21_0_GA.xml" timestamp="1531578786093" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_jboss_jandex_2_0_0_Final.xml" timestamp="1531578786112" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_jboss_logging_jboss_logging_3_3_1_Final.xml" timestamp="1531578786132" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_jvnet_animal_sniffer_annotation_1_0.xml" timestamp="1531578786150" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_mockito_mockito_core_1_10_19.xml" timestamp="1531578786162" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_objenesis_objenesis_2_1.xml" timestamp="1531578786175" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_ow2_asm_asm_5_0_3.xml" timestamp="1531578786190" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_ow2_asm_asm_5_0_4.xml" timestamp="1531578786203" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_postgresql_postgresql_9_4_1212_jre7.xml" timestamp="1531578786216" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_projectlombok_lombok_1_16_20.xml" timestamp="1531578786230" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_skyscreamer_jsonassert_1_4_0.xml" timestamp="1531578786240" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_slf4j_jcl_over_slf4j_1_7_25.xml" timestamp="1531578786249" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" timestamp="1531578786257" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_slf4j_log4j_over_slf4j_1_7_25.xml" timestamp="1531578786268" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_slf4j_slf4j_api_1_7_25.xml" timestamp="1531578786277" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_springframework_boot_spring_boot_1_5_10_RELEASE.xml" timestamp="1531578786287" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_springframework_boot_spring_boot_actuator_1_5_10_RELEASE.xml" timestamp="1531578786296" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_10_RELEASE.xml" timestamp="1531578786311" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_1_5_10_RELEASE.xml" timestamp="1531578786320" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_actuator_1_5_10_RELEASE.xml" timestamp="1531578786329" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_aop_1_5_10_RELEASE.xml" timestamp="1531578786337" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_data_jpa_1_5_10_RELEASE.xml" timestamp="1531578786348" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_data_redis_1_5_10_RELEASE.xml" timestamp="1531578786357" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_freemarker_1_5_10_RELEASE.xml" timestamp="1531578786367" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_jdbc_1_5_10_RELEASE.xml" timestamp="1531578786382" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_logging_1_5_10_RELEASE.xml" timestamp="1531578786392" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_security_1_5_10_RELEASE.xml" timestamp="1531578786403" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_test_1_5_10_RELEASE.xml" timestamp="1531578786414" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_tomcat_1_5_10_RELEASE.xml" timestamp="1531578786433" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_web_1_5_10_RELEASE.xml" timestamp="1531578786442" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_springframework_boot_spring_boot_test_1_5_10_RELEASE.xml" timestamp="1531578786453" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_springframework_boot_spring_boot_test_autoconfigure_1_5_10_RELEASE.xml" timestamp="1531578786467" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_springframework_cloud_spring_cloud_commons_1_2_0_RELEASE.xml" timestamp="1531578786479" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_springframework_cloud_spring_cloud_commons_1_2_2_RELEASE.xml" timestamp="1531578786492" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_springframework_cloud_spring_cloud_config_client_1_3_1_RELEASE.xml" timestamp="1531578786509" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_springframework_cloud_spring_cloud_context_1_2_0_RELEASE.xml" timestamp="1531578786521" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_springframework_cloud_spring_cloud_context_1_2_2_RELEASE.xml" timestamp="1531578786533" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_springframework_cloud_spring_cloud_netflix_core_1_3_0_RELEASE.xml" timestamp="1531578786546" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_springframework_cloud_spring_cloud_netflix_core_1_3_1_RELEASE.xml" timestamp="1531578786554" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_springframework_cloud_spring_cloud_netflix_eureka_client_1_3_0_RELEASE.xml" timestamp="1531578786564" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_springframework_cloud_spring_cloud_netflix_eureka_client_1_3_1_RELEASE.xml" timestamp="1531578786573" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_springframework_cloud_spring_cloud_netflix_eureka_server_1_3_0_RELEASE.xml" timestamp="1531578786583" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_springframework_cloud_spring_cloud_security_1_2_1_RELEASE.xml" timestamp="1531578786598" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_springframework_cloud_spring_cloud_starter_1_2_0_RELEASE.xml" timestamp="1531578786607" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_springframework_cloud_spring_cloud_starter_1_2_2_RELEASE.xml" timestamp="1531578786616" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_springframework_cloud_spring_cloud_starter_archaius_1_3_0_RELEASE.xml" timestamp="1531578786628" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_springframework_cloud_spring_cloud_starter_archaius_1_3_1_RELEASE.xml" timestamp="1531578786636" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_springframework_cloud_spring_cloud_starter_config_1_3_1_RELEASE.xml" timestamp="1531578786645" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_springframework_cloud_spring_cloud_starter_eureka_1_3_1_RELEASE.xml" timestamp="1531578786654" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_springframework_cloud_spring_cloud_starter_eureka_server_1_3_0_RELEASE.xml" timestamp="1531578786666" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_springframework_cloud_spring_cloud_starter_feign_1_3_1_RELEASE.xml" timestamp="1531578786680" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_springframework_cloud_spring_cloud_starter_hystrix_1_3_1_RELEASE.xml" timestamp="1531578786691" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_springframework_cloud_spring_cloud_starter_oauth2_1_2_1_RELEASE.xml" timestamp="1531578786704" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_springframework_cloud_spring_cloud_starter_ribbon_1_3_0_RELEASE.xml" timestamp="1531578786722" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_springframework_cloud_spring_cloud_starter_ribbon_1_3_1_RELEASE.xml" timestamp="1531578786736" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_springframework_cloud_spring_cloud_starter_security_1_2_1_RELEASE.xml" timestamp="1531578786753" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_springframework_cloud_spring_cloud_starter_zuul_1_3_1_RELEASE.xml" timestamp="1531578786767" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_springframework_data_spring_data_commons_1_13_10_RELEASE.xml" timestamp="1531578786779" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_springframework_data_spring_data_jpa_1_11_10_RELEASE.xml" timestamp="1531578786792" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_springframework_data_spring_data_keyvalue_1_2_10_RELEASE.xml" timestamp="1531578786803" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_springframework_data_spring_data_redis_1_8_10_RELEASE.xml" timestamp="1531578786811" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_springframework_security_oauth_spring_security_oauth2_2_0_14_RELEASE.xml" timestamp="1531578786826" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_springframework_security_spring_security_config_4_2_4_RELEASE.xml" timestamp="1531578786841" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_springframework_security_spring_security_core_4_2_4_RELEASE.xml" timestamp="1531578786853" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_springframework_security_spring_security_crypto_4_2_4_RELEASE.xml" timestamp="1531578786870" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_springframework_security_spring_security_data_4_2_4_RELEASE.xml" timestamp="1531578786883" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_springframework_security_spring_security_jwt_1_0_9_RELEASE.xml" timestamp="1531578786900" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_springframework_security_spring_security_rsa_1_0_3_RELEASE.xml" timestamp="1531578786909" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_springframework_security_spring_security_web_4_2_4_RELEASE.xml" timestamp="1531578786917" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_springframework_spring_aop_4_3_14_RELEASE.xml" timestamp="1531578786926" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_springframework_spring_aspects_4_3_14_RELEASE.xml" timestamp="1531578786935" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_springframework_spring_beans_4_3_14_RELEASE.xml" timestamp="1531578786947" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_springframework_spring_context_4_3_14_RELEASE.xml" timestamp="1531578786957" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_springframework_spring_context_support_4_3_14_RELEASE.xml" timestamp="1531578786965" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_springframework_spring_core_4_3_14_RELEASE.xml" timestamp="1531578786974" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_springframework_spring_expression_4_3_14_RELEASE.xml" timestamp="1531578786985" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_springframework_spring_jdbc_4_3_14_RELEASE.xml" timestamp="1531578786993" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_springframework_spring_orm_4_3_14_RELEASE.xml" timestamp="1531578787002" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_springframework_spring_oxm_4_3_14_RELEASE.xml" timestamp="1531578787011" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_springframework_spring_test_4_3_14_RELEASE.xml" timestamp="1531578787023" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_springframework_spring_tx_4_3_14_RELEASE.xml" timestamp="1531578787035" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_springframework_spring_web_4_3_14_RELEASE.xml" timestamp="1531578787045" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_springframework_spring_webmvc_4_3_14_RELEASE.xml" timestamp="1531578787057" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__org_yaml_snakeyaml_1_17.xml" timestamp="1531578787070" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__redis_clients_jedis_2_9_0.xml" timestamp="1531578787080" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__stax_stax_api_1_0_1.xml" timestamp="1531578787092" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__xmlpull_xmlpull_1_1_3_1.xml" timestamp="1531578787106" />
+    <file path="D:\projects\security\uaa-zuul\.idea\libraries\Maven__xpp3_xpp3_min_1_1_4c.xml" timestamp="1531578787116" />
+    <file path="D:\projects\security\uaa-zuul\.idea\misc.xml" timestamp="1531578784273" />
+    <file path="D:\projects\security\uaa-zuul\.idea\modules.xml" timestamp="1531578784312" />
+    <file path="D:\projects\security\uaa-zuul\.idea\uaa-zuul.iml" timestamp="1531577854358" />
+    <file path="D:\projects\security\uaa-zuul\.idea\vcs.xml" timestamp="1531577886712" />
+    <file path="D:\projects\security\uaa-zuul\.idea\workspace.xml" timestamp="1532009267036" />
+    <file path="D:\projects\security\uaa-zuul\api-gateway\api-gateway.iml" timestamp="1531578784214" />
+    <file path="D:\projects\security\uaa-zuul\auth-server\auth-server.iml" timestamp="1531580512730" />
+    <file path="D:\projects\security\uaa-zuul\discovery-service\discovery-service.iml" timestamp="1531578784195" />
+    <file path="D:\projects\security\uaa-zuul\order-service\order-service.iml" timestamp="1531578784251" />
+  </project-files>
+</conversion>
+

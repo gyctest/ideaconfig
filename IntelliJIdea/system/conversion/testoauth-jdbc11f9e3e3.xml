@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="build-jar-configurations-to-artifacts" />
+    <converter id="detach-cdi-facet-from-module" />
+    <converter id="detach-jsf-facet-from-module" />
+    <converter id="google-app-engine-facet" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+    <converter id="gwt-packaging" />
+    <converter id="javaee-module-to-facets" />
+    <converter id="javaee-packaging-to-artifacts" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+    <converter id="junit-to-android-junit-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="D:\projects\security\testoauth-jdbc\.idea\compiler.xml" timestamp="1532872509930" />
+    <file path="D:\projects\security\testoauth-jdbc\.idea\encodings.xml" timestamp="1532010425108" />
+    <file path="D:\projects\security\testoauth-jdbc\.idea\libraries\Maven__aopalliance_aopalliance_1_0.xml" timestamp="1532010425149" />
+    <file path="D:\projects\security\testoauth-jdbc\.idea\libraries\Maven__ch_qos_logback_logback_classic_1_1_11.xml" timestamp="1532010425165" />
+    <file path="D:\projects\security\testoauth-jdbc\.idea\libraries\Maven__ch_qos_logback_logback_core_1_1_11.xml" timestamp="1532010425182" />
+    <file path="D:\projects\security\testoauth-jdbc\.idea\libraries\Maven__com_fasterxml_classmate_1_3_4.xml" timestamp="1532010425197" />
+    <file path="D:\projects\security\testoauth-jdbc\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" timestamp="1532010425212" />
+    <file path="D:\projects\security\testoauth-jdbc\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_core_2_8_10.xml" timestamp="1532010425225" />
+    <file path="D:\projects\security\testoauth-jdbc\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_databind_2_8_10.xml" timestamp="1532010425238" />
+    <file path="D:\projects\security\testoauth-jdbc\.idea\libraries\Maven__commons_codec_commons_codec_1_10.xml" timestamp="1532010425249" />
+    <file path="D:\projects\security\testoauth-jdbc\.idea\libraries\Maven__javax_validation_validation_api_1_1_0_Final.xml" timestamp="1532010425260" />
+    <file path="D:\projects\security\testoauth-jdbc\.idea\libraries\Maven__mysql_mysql_connector_java_5_1_45.xml" timestamp="1532010425272" />
+    <file path="D:\projects\security\testoauth-jdbc\.idea\libraries\Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_27.xml" timestamp="1532010425283" />
+    <file path="D:\projects\security\testoauth-jdbc\.idea\libraries\Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_27.xml" timestamp="1532010425293" />
+    <file path="D:\projects\security\testoauth-jdbc\.idea\libraries\Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_27.xml" timestamp="1532010425301" />
+    <file path="D:\projects\security\testoauth-jdbc\.idea\libraries\Maven__org_apache_tomcat_tomcat_annotations_api_8_5_27.xml" timestamp="1532010425311" />
+    <file path="D:\projects\security\testoauth-jdbc\.idea\libraries\Maven__org_apache_tomcat_tomcat_jdbc_8_5_27.xml" timestamp="1532010425321" />
+    <file path="D:\projects\security\testoauth-jdbc\.idea\libraries\Maven__org_apache_tomcat_tomcat_juli_8_5_27.xml" timestamp="1532010425331" />
+    <file path="D:\projects\security\testoauth-jdbc\.idea\libraries\Maven__org_bouncycastle_bcpkix_jdk15on_1_56.xml" timestamp="1532010425344" />
+    <file path="D:\projects\security\testoauth-jdbc\.idea\libraries\Maven__org_bouncycastle_bcprov_jdk15on_1_56.xml" timestamp="1532010425356" />
+    <file path="D:\projects\security\testoauth-jdbc\.idea\libraries\Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" timestamp="1532010425367" />
+    <file path="D:\projects\security\testoauth-jdbc\.idea\libraries\Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" timestamp="1532010425380" />
+    <file path="D:\projects\security\testoauth-jdbc\.idea\libraries\Maven__org_hibernate_hibernate_validator_5_3_6_Final.xml" timestamp="1532010425398" />
+    <file path="D:\projects\security\testoauth-jdbc\.idea\libraries\Maven__org_jboss_logging_jboss_logging_3_3_1_Final.xml" timestamp="1532010425421" />
+    <file path="D:\projects\security\testoauth-jdbc\.idea\libraries\Maven__org_slf4j_jcl_over_slf4j_1_7_25.xml" timestamp="1532010425434" />
+    <file path="D:\projects\security\testoauth-jdbc\.idea\libraries\Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" timestamp="1532010425448" />
+    <file path="D:\projects\security\testoauth-jdbc\.idea\libraries\Maven__org_slf4j_log4j_over_slf4j_1_7_25.xml" timestamp="1532010425463" />
+    <file path="D:\projects\security\testoauth-jdbc\.idea\libraries\Maven__org_slf4j_slf4j_api_1_7_25.xml" timestamp="1532010425478" />
+    <file path="D:\projects\security\testoauth-jdbc\.idea\libraries\Maven__org_springframework_boot_spring_boot_1_5_10_RELEASE.xml" timestamp="1532010425492" />
+    <file path="D:\projects\security\testoauth-jdbc\.idea\libraries\Maven__org_springframework_boot_spring_boot_actuator_1_5_10_RELEASE.xml" timestamp="1532010425505" />
+    <file path="D:\projects\security\testoauth-jdbc\.idea\libraries\Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_10_RELEASE.xml" timestamp="1532010425518" />
+    <file path="D:\projects\security\testoauth-jdbc\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_1_5_10_RELEASE.xml" timestamp="1532010425528" />
+    <file path="D:\projects\security\testoauth-jdbc\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_actuator_1_5_10_RELEASE.xml" timestamp="1532010425539" />
+    <file path="D:\projects\security\testoauth-jdbc\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_jdbc_1_5_10_RELEASE.xml" timestamp="1532010425550" />
+    <file path="D:\projects\security\testoauth-jdbc\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_logging_1_5_10_RELEASE.xml" timestamp="1532010425561" />
+    <file path="D:\projects\security\testoauth-jdbc\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_security_1_5_10_RELEASE.xml" timestamp="1532010425572" />
+    <file path="D:\projects\security\testoauth-jdbc\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_tomcat_1_5_10_RELEASE.xml" timestamp="1532010425584" />
+    <file path="D:\projects\security\testoauth-jdbc\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_velocity_unknown.xml" timestamp="1532010425599" />
+    <file path="D:\projects\security\testoauth-jdbc\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_web_1_5_10_RELEASE.xml" timestamp="1532010425611" />
+    <file path="D:\projects\security\testoauth-jdbc\.idea\libraries\Maven__org_springframework_cloud_spring_cloud_commons_1_1_1_RELEASE.xml" timestamp="1532010425622" />
+    <file path="D:\projects\security\testoauth-jdbc\.idea\libraries\Maven__org_springframework_cloud_spring_cloud_context_1_1_1_RELEASE.xml" timestamp="1532010425631" />
+    <file path="D:\projects\security\testoauth-jdbc\.idea\libraries\Maven__org_springframework_cloud_spring_cloud_security_1_1_2_RELEASE.xml" timestamp="1532010425642" />
+    <file path="D:\projects\security\testoauth-jdbc\.idea\libraries\Maven__org_springframework_cloud_spring_cloud_starter_1_1_1_RELEASE.xml" timestamp="1532010425653" />
+    <file path="D:\projects\security\testoauth-jdbc\.idea\libraries\Maven__org_springframework_cloud_spring_cloud_starter_oauth2_1_1_2_RELEASE.xml" timestamp="1532010425664" />
+    <file path="D:\projects\security\testoauth-jdbc\.idea\libraries\Maven__org_springframework_cloud_spring_cloud_starter_security_1_1_2_RELEASE.xml" timestamp="1532010425680" />
+    <file path="D:\projects\security\testoauth-jdbc\.idea\libraries\Maven__org_springframework_security_oauth_spring_security_oauth2_2_0_14_RELEASE.xml" timestamp="1532010425693" />
+    <file path="D:\projects\security\testoauth-jdbc\.idea\libraries\Maven__org_springframework_security_spring_security_config_4_2_4_RELEASE.xml" timestamp="1532010425701" />
+    <file path="D:\projects\security\testoauth-jdbc\.idea\libraries\Maven__org_springframework_security_spring_security_core_4_2_4_RELEASE.xml" timestamp="1532010425711" />
+    <file path="D:\projects\security\testoauth-jdbc\.idea\libraries\Maven__org_springframework_security_spring_security_crypto_4_2_4_RELEASE.xml" timestamp="1532010425720" />
+    <file path="D:\projects\security\testoauth-jdbc\.idea\libraries\Maven__org_springframework_security_spring_security_jwt_1_0_9_RELEASE.xml" timestamp="1532010425730" />
+    <file path="D:\projects\security\testoauth-jdbc\.idea\libraries\Maven__org_springframework_security_spring_security_rsa_1_0_1_RELEASE.xml" timestamp="1532010425741" />
+    <file path="D:\projects\security\testoauth-jdbc\.idea\libraries\Maven__org_springframework_security_spring_security_web_4_2_4_RELEASE.xml" timestamp="1532010425751" />
+    <file path="D:\projects\security\testoauth-jdbc\.idea\libraries\Maven__org_springframework_spring_aop_4_3_14_RELEASE.xml" timestamp="1532010425760" />
+    <file path="D:\projects\security\testoauth-jdbc\.idea\libraries\Maven__org_springframework_spring_beans_4_3_14_RELEASE.xml" timestamp="1532010425769" />
+    <file path="D:\projects\security\testoauth-jdbc\.idea\libraries\Maven__org_springframework_spring_context_4_3_14_RELEASE.xml" timestamp="1532010425780" />
+    <file path="D:\projects\security\testoauth-jdbc\.idea\libraries\Maven__org_springframework_spring_core_4_3_14_RELEASE.xml" timestamp="1532010425794" />
+    <file path="D:\projects\security\testoauth-jdbc\.idea\libraries\Maven__org_springframework_spring_expression_4_3_14_RELEASE.xml" timestamp="1532010425805" />
+    <file path="D:\projects\security\testoauth-jdbc\.idea\libraries\Maven__org_springframework_spring_jdbc_4_3_14_RELEASE.xml" timestamp="1532010425817" />
+    <file path="D:\projects\security\testoauth-jdbc\.idea\libraries\Maven__org_springframework_spring_tx_4_3_14_RELEASE.xml" timestamp="1532010425828" />
+    <file path="D:\projects\security\testoauth-jdbc\.idea\libraries\Maven__org_springframework_spring_web_4_3_14_RELEASE.xml" timestamp="1532010425837" />
+    <file path="D:\projects\security\testoauth-jdbc\.idea\libraries\Maven__org_springframework_spring_webmvc_4_3_14_RELEASE.xml" timestamp="1532010425847" />
+    <file path="D:\projects\security\testoauth-jdbc\.idea\libraries\Maven__org_yaml_snakeyaml_1_17.xml" timestamp="1532010425856" />
+    <file path="D:\projects\security\testoauth-jdbc\.idea\misc.xml" timestamp="1532872509922" />
+    <file path="D:\projects\security\testoauth-jdbc\.idea\modules.xml" timestamp="1532872509938" />
+    <file path="D:\projects\security\testoauth-jdbc\.idea\testoauth-jdbc.iml" timestamp="1532010277364" />
+    <file path="D:\projects\security\testoauth-jdbc\.idea\vcs.xml" timestamp="1532010425082" />
+    <file path="D:\projects\security\testoauth-jdbc\.idea\workspace.xml" timestamp="1532875211809" />
+    <file path="D:\projects\security\testoauth-jdbc\jdbc-resource-server\resource-server2.iml" timestamp="1532010425047" />
+    <file path="D:\projects\security\testoauth-jdbc\oauth-server\oauth-server.iml" timestamp="1532010425036" />
+    <file path="D:\projects\security\testoauth-jdbc\remote-resource-server\resource-server.iml" timestamp="1532010425025" />
+  </project-files>
+</conversion>
+

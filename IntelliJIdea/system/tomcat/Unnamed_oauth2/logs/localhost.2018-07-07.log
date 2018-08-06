@@ -1,0 +1,5 @@
+07-Jul-2018 16:15:40.477 信息 [RMI TCP Connection(4)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+07-Jul-2018 16:15:40.618 信息 [RMI TCP Connection(4)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+07-Jul-2018 16:15:42.772 信息 [RMI TCP Connection(4)-127.0.0.1] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'dispatcher'
+07-Jul-2018 16:29:30.085 信息 [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'dispatcher'
+07-Jul-2018 16:29:30.088 信息 [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext

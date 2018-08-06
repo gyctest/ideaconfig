@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="build-jar-configurations-to-artifacts" />
+    <converter id="detach-cdi-facet-from-module" />
+    <converter id="detach-jsf-facet-from-module" />
+    <converter id="google-app-engine-facet" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+    <converter id="gwt-packaging" />
+    <converter id="javaee-module-to-facets" />
+    <converter id="javaee-packaging-to-artifacts" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+    <converter id="junit-to-android-junit-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="D:\projects\security\spring-cloud-security-oauth2-jdbc\.idea\compiler.xml" timestamp="1531314342672" />
+    <file path="D:\projects\security\spring-cloud-security-oauth2-jdbc\.idea\encodings.xml" timestamp="1531314342690" />
+    <file path="D:\projects\security\spring-cloud-security-oauth2-jdbc\.idea\libraries\Maven__aopalliance_aopalliance_1_0.xml" timestamp="1531314342735" />
+    <file path="D:\projects\security\spring-cloud-security-oauth2-jdbc\.idea\libraries\Maven__ch_qos_logback_logback_classic_1_1_11.xml" timestamp="1531314342750" />
+    <file path="D:\projects\security\spring-cloud-security-oauth2-jdbc\.idea\libraries\Maven__ch_qos_logback_logback_core_1_1_11.xml" timestamp="1531314342767" />
+    <file path="D:\projects\security\spring-cloud-security-oauth2-jdbc\.idea\libraries\Maven__com_fasterxml_classmate_1_3_4.xml" timestamp="1531314342780" />
+    <file path="D:\projects\security\spring-cloud-security-oauth2-jdbc\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" timestamp="1531314342796" />
+    <file path="D:\projects\security\spring-cloud-security-oauth2-jdbc\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_core_2_8_10.xml" timestamp="1531314342808" />
+    <file path="D:\projects\security\spring-cloud-security-oauth2-jdbc\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_databind_2_8_10.xml" timestamp="1531314342821" />
+    <file path="D:\projects\security\spring-cloud-security-oauth2-jdbc\.idea\libraries\Maven__commons_codec_commons_codec_1_10.xml" timestamp="1531314342839" />
+    <file path="D:\projects\security\spring-cloud-security-oauth2-jdbc\.idea\libraries\Maven__javax_validation_validation_api_1_1_0_Final.xml" timestamp="1531314342853" />
+    <file path="D:\projects\security\spring-cloud-security-oauth2-jdbc\.idea\libraries\Maven__mysql_mysql_connector_java_5_1_45.xml" timestamp="1531314342865" />
+    <file path="D:\projects\security\spring-cloud-security-oauth2-jdbc\.idea\libraries\Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_27.xml" timestamp="1531314342882" />
+    <file path="D:\projects\security\spring-cloud-security-oauth2-jdbc\.idea\libraries\Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_27.xml" timestamp="1531314342897" />
+    <file path="D:\projects\security\spring-cloud-security-oauth2-jdbc\.idea\libraries\Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_27.xml" timestamp="1531314342911" />
+    <file path="D:\projects\security\spring-cloud-security-oauth2-jdbc\.idea\libraries\Maven__org_apache_tomcat_tomcat_annotations_api_8_5_27.xml" timestamp="1531314342925" />
+    <file path="D:\projects\security\spring-cloud-security-oauth2-jdbc\.idea\libraries\Maven__org_apache_tomcat_tomcat_jdbc_8_5_27.xml" timestamp="1531314342940" />
+    <file path="D:\projects\security\spring-cloud-security-oauth2-jdbc\.idea\libraries\Maven__org_apache_tomcat_tomcat_juli_8_5_27.xml" timestamp="1531314342958" />
+    <file path="D:\projects\security\spring-cloud-security-oauth2-jdbc\.idea\libraries\Maven__org_bouncycastle_bcpkix_jdk15on_1_56.xml" timestamp="1531314342973" />
+    <file path="D:\projects\security\spring-cloud-security-oauth2-jdbc\.idea\libraries\Maven__org_bouncycastle_bcprov_jdk15on_1_56.xml" timestamp="1531314342991" />
+    <file path="D:\projects\security\spring-cloud-security-oauth2-jdbc\.idea\libraries\Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" timestamp="1531314343009" />
+    <file path="D:\projects\security\spring-cloud-security-oauth2-jdbc\.idea\libraries\Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" timestamp="1531314343027" />
+    <file path="D:\projects\security\spring-cloud-security-oauth2-jdbc\.idea\libraries\Maven__org_hibernate_hibernate_validator_5_3_6_Final.xml" timestamp="1531314343042" />
+    <file path="D:\projects\security\spring-cloud-security-oauth2-jdbc\.idea\libraries\Maven__org_jboss_logging_jboss_logging_3_3_1_Final.xml" timestamp="1531314343058" />
+    <file path="D:\projects\security\spring-cloud-security-oauth2-jdbc\.idea\libraries\Maven__org_slf4j_jcl_over_slf4j_1_7_25.xml" timestamp="1531314343076" />
+    <file path="D:\projects\security\spring-cloud-security-oauth2-jdbc\.idea\libraries\Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" timestamp="1531314343099" />
+    <file path="D:\projects\security\spring-cloud-security-oauth2-jdbc\.idea\libraries\Maven__org_slf4j_log4j_over_slf4j_1_7_25.xml" timestamp="1531314343116" />
+    <file path="D:\projects\security\spring-cloud-security-oauth2-jdbc\.idea\libraries\Maven__org_slf4j_slf4j_api_1_7_25.xml" timestamp="1531314343131" />
+    <file path="D:\projects\security\spring-cloud-security-oauth2-jdbc\.idea\libraries\Maven__org_springframework_boot_spring_boot_1_5_10_RELEASE.xml" timestamp="1531314343149" />
+    <file path="D:\projects\security\spring-cloud-security-oauth2-jdbc\.idea\libraries\Maven__org_springframework_boot_spring_boot_actuator_1_5_10_RELEASE.xml" timestamp="1531314343167" />
+    <file path="D:\projects\security\spring-cloud-security-oauth2-jdbc\.idea\libraries\Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_10_RELEASE.xml" timestamp="1531314343181" />
+    <file path="D:\projects\security\spring-cloud-security-oauth2-jdbc\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_1_5_10_RELEASE.xml" timestamp="1531314343195" />
+    <file path="D:\projects\security\spring-cloud-security-oauth2-jdbc\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_actuator_1_5_10_RELEASE.xml" timestamp="1531314343208" />
+    <file path="D:\projects\security\spring-cloud-security-oauth2-jdbc\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_jdbc_1_5_10_RELEASE.xml" timestamp="1531314343220" />
+    <file path="D:\projects\security\spring-cloud-security-oauth2-jdbc\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_logging_1_5_10_RELEASE.xml" timestamp="1531314343232" />
+    <file path="D:\projects\security\spring-cloud-security-oauth2-jdbc\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_security_1_5_10_RELEASE.xml" timestamp="1531314343243" />
+    <file path="D:\projects\security\spring-cloud-security-oauth2-jdbc\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_tomcat_1_5_10_RELEASE.xml" timestamp="1531314343252" />
+    <file path="D:\projects\security\spring-cloud-security-oauth2-jdbc\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_velocity_unknown.xml" timestamp="1531314343272" />
+    <file path="D:\projects\security\spring-cloud-security-oauth2-jdbc\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_web_1_5_10_RELEASE.xml" timestamp="1531314343285" />
+    <file path="D:\projects\security\spring-cloud-security-oauth2-jdbc\.idea\libraries\Maven__org_springframework_cloud_spring_cloud_commons_1_1_1_RELEASE.xml" timestamp="1531314343300" />
+    <file path="D:\projects\security\spring-cloud-security-oauth2-jdbc\.idea\libraries\Maven__org_springframework_cloud_spring_cloud_context_1_1_1_RELEASE.xml" timestamp="1531314343314" />
+    <file path="D:\projects\security\spring-cloud-security-oauth2-jdbc\.idea\libraries\Maven__org_springframework_cloud_spring_cloud_security_1_1_2_RELEASE.xml" timestamp="1531314343328" />
+    <file path="D:\projects\security\spring-cloud-security-oauth2-jdbc\.idea\libraries\Maven__org_springframework_cloud_spring_cloud_starter_1_1_1_RELEASE.xml" timestamp="1531314343341" />
+    <file path="D:\projects\security\spring-cloud-security-oauth2-jdbc\.idea\libraries\Maven__org_springframework_cloud_spring_cloud_starter_oauth2_1_1_2_RELEASE.xml" timestamp="1531314343356" />
+    <file path="D:\projects\security\spring-cloud-security-oauth2-jdbc\.idea\libraries\Maven__org_springframework_cloud_spring_cloud_starter_security_1_1_2_RELEASE.xml" timestamp="1531314343372" />
+    <file path="D:\projects\security\spring-cloud-security-oauth2-jdbc\.idea\libraries\Maven__org_springframework_security_oauth_spring_security_oauth2_2_0_14_RELEASE.xml" timestamp="1531314343386" />
+    <file path="D:\projects\security\spring-cloud-security-oauth2-jdbc\.idea\libraries\Maven__org_springframework_security_spring_security_config_4_2_4_RELEASE.xml" timestamp="1531314343398" />
+    <file path="D:\projects\security\spring-cloud-security-oauth2-jdbc\.idea\libraries\Maven__org_springframework_security_spring_security_core_4_2_4_RELEASE.xml" timestamp="1531314343415" />
+    <file path="D:\projects\security\spring-cloud-security-oauth2-jdbc\.idea\libraries\Maven__org_springframework_security_spring_security_crypto_4_2_4_RELEASE.xml" timestamp="1531314343427" />
+    <file path="D:\projects\security\spring-cloud-security-oauth2-jdbc\.idea\libraries\Maven__org_springframework_security_spring_security_jwt_1_0_9_RELEASE.xml" timestamp="1531314343437" />
+    <file path="D:\projects\security\spring-cloud-security-oauth2-jdbc\.idea\libraries\Maven__org_springframework_security_spring_security_rsa_1_0_1_RELEASE.xml" timestamp="1531314343448" />
+    <file path="D:\projects\security\spring-cloud-security-oauth2-jdbc\.idea\libraries\Maven__org_springframework_security_spring_security_web_4_2_4_RELEASE.xml" timestamp="1531314343462" />
+    <file path="D:\projects\security\spring-cloud-security-oauth2-jdbc\.idea\libraries\Maven__org_springframework_spring_aop_4_3_14_RELEASE.xml" timestamp="1531314343474" />
+    <file path="D:\projects\security\spring-cloud-security-oauth2-jdbc\.idea\libraries\Maven__org_springframework_spring_beans_4_3_14_RELEASE.xml" timestamp="1531314343499" />
+    <file path="D:\projects\security\spring-cloud-security-oauth2-jdbc\.idea\libraries\Maven__org_springframework_spring_context_4_3_14_RELEASE.xml" timestamp="1531314343510" />
+    <file path="D:\projects\security\spring-cloud-security-oauth2-jdbc\.idea\libraries\Maven__org_springframework_spring_core_4_3_14_RELEASE.xml" timestamp="1531314343521" />
+    <file path="D:\projects\security\spring-cloud-security-oauth2-jdbc\.idea\libraries\Maven__org_springframework_spring_expression_4_3_14_RELEASE.xml" timestamp="1531314343531" />
+    <file path="D:\projects\security\spring-cloud-security-oauth2-jdbc\.idea\libraries\Maven__org_springframework_spring_jdbc_4_3_14_RELEASE.xml" timestamp="1531314343541" />
+    <file path="D:\projects\security\spring-cloud-security-oauth2-jdbc\.idea\libraries\Maven__org_springframework_spring_tx_4_3_14_RELEASE.xml" timestamp="1531314343551" />
+    <file path="D:\projects\security\spring-cloud-security-oauth2-jdbc\.idea\libraries\Maven__org_springframework_spring_web_4_3_14_RELEASE.xml" timestamp="1531314343562" />
+    <file path="D:\projects\security\spring-cloud-security-oauth2-jdbc\.idea\libraries\Maven__org_springframework_spring_webmvc_4_3_14_RELEASE.xml" timestamp="1531314343570" />
+    <file path="D:\projects\security\spring-cloud-security-oauth2-jdbc\.idea\libraries\Maven__org_yaml_snakeyaml_1_17.xml" timestamp="1531314343586" />
+    <file path="D:\projects\security\spring-cloud-security-oauth2-jdbc\.idea\misc.xml" timestamp="1531314342631" />
+    <file path="D:\projects\security\spring-cloud-security-oauth2-jdbc\.idea\modules.xml" timestamp="1531314342702" />
+    <file path="D:\projects\security\spring-cloud-security-oauth2-jdbc\.idea\spring-cloud-security-oauth2-jdbc.iml" timestamp="1531313600219" />
+    <file path="D:\projects\security\spring-cloud-security-oauth2-jdbc\.idea\uiDesigner.xml" timestamp="1531315050072" />
+    <file path="D:\projects\security\spring-cloud-security-oauth2-jdbc\.idea\vcs.xml" timestamp="1531314342654" />
+    <file path="D:\projects\security\spring-cloud-security-oauth2-jdbc\.idea\workspace.xml" timestamp="1531926159618" />
+    <file path="D:\projects\security\spring-cloud-security-oauth2-jdbc\jdbc-resource-server\resource-server2.iml" timestamp="1531314342612" />
+    <file path="D:\projects\security\spring-cloud-security-oauth2-jdbc\oauth-server\oauth-server.iml" timestamp="1531314342586" />
+    <file path="D:\projects\security\spring-cloud-security-oauth2-jdbc\remote-resource-server\resource-server.iml" timestamp="1531314342600" />
+  </project-files>
+</conversion>
+

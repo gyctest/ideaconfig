@@ -1,0 +1,69 @@
+<maven-project-configuration>
+  <resource-processing>
+    <maven-module name="activitydemo">
+      <MavenModuleResourceConfiguration>
+        <id>
+          <MavenIdBean>
+            <groupId>gyc</groupId>
+            <artifactId>activitydemo</artifactId>
+            <version>1.0-SNAPSHaliyun mirrorOT</version>
+          </MavenIdBean>
+        </id>
+        <parentId />
+        <directory>D:/projects/activitytest/activitydemo</directory>
+        <manifest>TWFuaWZlc3QtVmVyc2lvbjogMS4wDQpCdWlsdC1CeTogQWRtaW5pc3RyYXRvcg0KQ3JlYXRlZC1CeTogSW50ZWxsaUogSURFQQ0KQnVpbGQtSmRrOiAxLjguMF8xMTENCg0K</manifest>
+        <classpath>activiti-engine-6.0.0.jar activiti-bpmn-converter-6.0.0.jar activiti-bpmn-model-6.0.0.jar activiti-process-validation-6.0.0.jar activiti-image-generator-6.0.0.jar activiti-dmn-api-6.0.0.jar activiti-dmn-model-6.0.0.jar activiti-form-model-6.0.0.jar jackson-core-2.7.5.jar jackson-databind-2.7.5.jar jackson-annotations-2.7.0.jar activiti-form-api-6.0.0.jar commons-email-1.4.jar javax.mail-1.5.2.jar activation-1.1.1.jar commons-lang3-3.3.2.jar mybatis-3.4.2.jar spring-beans-4.2.5.RELEASE.jar spring-core-4.2.5.RELEASE.jar commons-logging-1.2.jar juel-api-2.2.7.jar juel-impl-2.2.7.jar juel-spi-2.2.7.jar joda-time-2.6.jar slf4j-api-1.7.6.jar jcl-over-slf4j-1.7.6.jar activiti-spring-6.0.0.jar spring-context-4.2.5.RELEASE.jar spring-aop-4.2.5.RELEASE.jar aopalliance-1.0.jar spring-expression-4.2.5.RELEASE.jar spring-jdbc-4.2.5.RELEASE.jar spring-tx-4.2.5.RELEASE.jar spring-orm-4.2.5.RELEASE.jar commons-dbcp-1.4.jar commons-pool-1.5.4.jar groovy-all-2.0.4.jar h2-1.3.168.jar junit-4.8.1.jar mysql-connector-java-5.1.46.jar</classpath>
+        <delimiters-pattern>\$\{(.+?)\}|@(.+?)@</delimiters-pattern>
+        <model-map>
+          <entry key="artifactId" value="activitydemo" />
+          <entry key="build.directory" value="D:\projects\activitytest\activitydemo\target" />
+          <entry key="build.finalName" value="activitydemo-1.0-SNAPSHaliyun mirrorOT" />
+          <entry key="build.outputDirectory" value="D:\projects\activitytest\activitydemo\target\classes" />
+          <entry key="build.plugin.maven-ear-plugin.skinnyWars" value="false" />
+          <entry key="build.scriptSourceDirectory" value="D:\projects\activitytest\activitydemo\src\main\scripts" />
+          <entry key="build.sourceDirectory" value="D:\projects\activitytest\activitydemo\src\main\java" />
+          <entry key="build.testOutputDirectory" value="D:\projects\activitytest\activitydemo\target\test-classes" />
+          <entry key="build.testSourceDirectory" value="D:\projects\activitytest\activitydemo\src\test\java" />
+          <entry key="groupId" value="gyc" />
+          <entry key="modelEncoding" value="UTF-8" />
+          <entry key="modelVersion" value="4.0.0" />
+          <entry key="name" value="BPMN 2.0 with Activiti - Examples" />
+          <entry key="packaging" value="jar" />
+          <entry key="pomFile" value="D:\projects\activitytest\activitydemo\pom.xml" />
+          <entry key="reporting.outputDirectory" value="D:\projects\activitytest\activitydemo\target\site" />
+          <entry key="version" value="1.0-SNAPSHaliyun mirrorOT" />
+        </model-map>
+        <properties>
+          <entry key="activiti-version" value="6.0.0" />
+          <entry key="java.home" value="D:/Program Files/java/jdk1.8.0_111/jre" />
+          <entry key="java.version" value="java version &quot;1.8.0_111&quot;" />
+          <entry key="settings.localRepository" value="D:\.m2\repository" />
+        </properties>
+        <filtering-excluded-extensions />
+        <option name="escapeString" />
+        <option name="escapeWindowsPaths" value="true" />
+        <option name="overwrite" value="false" />
+        <option name="outputDirectory" />
+        <option name="testOutputDirectory" />
+        <resources>
+          <resource filtered="false">
+            <directory>D:/projects/activitytest/activitydemo/src/main/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </resources>
+        <test-resources>
+          <resource filtered="false">
+            <directory>D:/projects/activitytest/activitydemo/src/test/resources</directory>
+            <targetPath />
+            <includes />
+            <excludes />
+          </resource>
+        </test-resources>
+      </MavenModuleResourceConfiguration>
+    </maven-module>
+  </resource-processing>
+  <web-artifact-cfg />
+  <ejb-client-artifact-cfg />
+</maven-project-configuration>

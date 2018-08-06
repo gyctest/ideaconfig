@@ -1,0 +1,49 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.8338068" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="Darcula.savedEditorTheme" value="_@user_Darcula" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="FrameworksFinderRecursivePanel[0]" value="0.15302218" />
+    <property name="INSPECTION_FILTER_HISTORY" value="spring" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="KEYMAP" value="new&#10;add" />
+    <property name="LayoutCode.optimizeImports" value="true" />
+    <property name="LiveContextsPanel[0]" value="0.2247191" />
+    <property name="LiveContextsPanel[1]" value="0.16380017" />
+    <property name="MavenModuleWizard.inheritGroupId" value="true" />
+    <property name="MavenModuleWizard.inheritVersion" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="PLUGIN_FILTER" value="mybat&#10;bpm&#10;actiBPM&#10;BPMN&#10;BPMN2.0" />
+    <property name="SearchEveryWhereHistory" value="InvalidClientException&#10;MyUserDetailsService&#10;AuthorizationEndpoint&#10;FrameworkEndpointHandlerMapping&#10;Arraylist" />
+    <property name="SettingsSearchHistory" value="git&#10;maven&#10;tomcat&#10;mav&#10;live templ" />
+    <property name="SplitFileEditor.Proportion" value="0.2636816" />
+    <property name="SqlStructureView.filterD.file.structure.state" value="true" />
+    <property name="android-component-compatibility-check" value="1533562909907" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="0" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Dependencies" />
+    <property name="create.project.preferred.importer" value="Existing Sources" />
+    <property name="debug.configuration.alternate.action.ad" value="true" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="dir.diff.panel.divider.location" value="61" />
+    <property name="evlsprt3.181" value="14" />
+    <property name="file.chooser.recent.files" value="D:/projects/activitytest/activitydemo/src/main/resources/diagrams&#10;D:/projects/activitytest/activitydemo&#10;D:/projects/activitytest&#10;D:/projects/security/activiytest&#10;D:/projects/gyc/test&#10;D:/projects/security/testoauth-jdbc/remote-resource-server/pom.xml&#10;D:/projects/security/testoauth-jdbc&#10;D:/projects/security/uaa-zuul-test/api-gateway/pom.xml&#10;D:/projects/security/uaa-zuul-test&#10;D:/projects/security/uaa-zuul/api-gateway/pom.xml&#10;D:/projects/security/uaa-zuul&#10;D:/projects/security/spring-cloud-security-oauth2-jwt/jwt-resource-server/pom.xml&#10;D:/projects/security/spring-cloud-security-oauth2-jwt&#10;D:/projects/security/spring-cloud-security-oauth2-jdbc/jdbc-resource-server/pom.xml&#10;D:/projects/security/oauthserver/oauthserver/pom.xml&#10;D:/projects/security/oauthserver&#10;D:/Program Files/apache-tomcat-8.0.41&#10;D:/Program Files/apache-maven-3.3.9/conf/settings.xml&#10;D:/projects/security/oauth2/SpringSecurityOAuth2/pom.xml&#10;D:/projects/security/oauth2&#10;D:/projects/security/Spring-Security&#10;D:/Program Files/java/jdk1.8.0_111&#10;D:/Program Files/apache-maven-3.3.9&#10;D:/projects/gyc/MyBatis-Spring-Boot/pom.xml&#10;D:/projects/gyc&#10;Y:/soft/settings.jar&#10;D:/projects/iBase4J" />
+    <property name="file.gist.reindex.count" value="7427" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="installed.kotlin.plugin.version" value="1.2.31-release-IJ2018.1-1" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="js.chrome.debugger.port" value="59542" />
+    <property name="last.imported.location" value="D:/projects/iBase4J" />
+    <property name="lastTip" value="84" />
+    <property name="project.wizard.group" value="org.jetbrains.idea.maven.wizards.MavenModuleBuilder" />
+    <property name="project.wizard.template" value="Java" />
+    <property name="search.everywhere.max.popup.width" value="620" />
+    <property name="ts.lib.d.ts.version" value="2.8.1" />
+  </component>
+</application>

@@ -1,0 +1,111 @@
+2018-08-06 22:42:01,001 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2018-08-06 22:42:01,063 [     62]   INFO -        #com.intellij.idea.Main - IDE: IntelliJ IDEA (build #IU-181.5281.24, 12 Jun 2018 20:01) 
+2018-08-06 22:42:01,063 [     62]   INFO -        #com.intellij.idea.Main - OS: Windows 10 (10.0, amd64) 
+2018-08-06 22:42:01,063 [     62]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_152-release-1136-b39 (JetBrains s.r.o) 
+2018-08-06 22:42:01,063 [     62]   INFO -        #com.intellij.idea.Main - JVM: 25.152-b39 (OpenJDK 64-Bit Server VM) 
+2018-08-06 22:42:01,063 [     62]   INFO -        #com.intellij.idea.Main - JVM Args: -Xms128m -Xmx750m -XX:ReservedCodeCacheSize=240m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -ea -Dsun.io.useCanonCaches=false -Djava.net.preferIPv4Stack=true -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2018.1.5\bin\JetbrainsCrack-2.7-release-str.jar -Dfile.encoding=UTF-8 -Djb.vmOptionsFile=C:\Program Files\JetBrains\IntelliJ IDEA 2018.1.5\bin\idea64.exe.vmoptions -Didea.jre.check=true -Dide.native.launcher=true -Didea.paths.selector=IntelliJIdea2018.1 -XX:ErrorFile=C:\Users\Administrator\java_error_in_idea_%p.log -XX:HeapDumpPath=C:\Users\Administrator\java_error_in_idea.hprof 
+2018-08-06 22:42:01,063 [     62]   INFO -        #com.intellij.idea.Main - ext: C:\Program Files\JetBrains\IntelliJ IDEA 2018.1.5\jre64\lib\ext: [access-bridge-64.jar, cldrdata.jar, dnsns.jar, jaccess.jar, jfxrt.jar, localedata.jar, meta-index, nashorn.jar, sunec.jar, sunjce_provider.jar, sunmscapi.jar, sunpkcs11.jar, zipfs.jar] 
+2018-08-06 22:42:01,063 [     62]   INFO -        #com.intellij.idea.Main - JNU charset: GBK 
+2018-08-06 22:42:01,079 [     78]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 16 ms 
+2018-08-06 22:42:01,079 [     78]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational 
+2018-08-06 22:42:01,157 [    156]   INFO -     #com.intellij.util.ui.JBUI - User scale factor: 1.0 
+2018-08-06 22:42:01,157 [    156]   INFO -     #com.intellij.util.ui.JBUI - System scale factor: 1.0 (JRE-managed HiDPI) 
+2018-08-06 22:42:01,528 [    527]   INFO - .intellij.idea.IdeaApplication - CPU cores: 8; ForkJoinPool.commonPool: java.util.concurrent.ForkJoinPool@5157d0fa[Running, parallelism = 7, size = 0, active = 0, running = 0, steals = 0, tasks = 0, submissions = 0]; factory: com.intellij.concurrency.IdeaForkJoinWorkerThreadFactory@1c789b06 
+2018-08-06 22:42:02,876 [   1875]   INFO - llij.ide.plugins.PluginManager - 135 plugins initialized in 1207 ms 
+2018-08-06 22:42:02,891 [   1890]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: ASP (0.1), Android Support (10.3.0), AngularJS (181.5281.24), Ant Support (1.0), Application Servers View (0.2.0), AspectJ Support (1.2), Bytecode Viewer (0.1), CFML Support (3.53), CSS Support (181.5281.24), CVS Integration (11), Cloud Foundry integration (1.0), CloudBees integration (1.0), CoffeeScript (181.5281.24), Copyright (8.1), Coverage (181.5281.24), Cucumber for Groovy (181.5281.24), Cucumber for Java (181.5281.24), DSM Analysis (1.0.0), Database Tools and SQL (181.5281.24), Eclipse Integration (3.0), EditorConfig (181.5281.24), Emma (181.5281.24), Flash/Flex Support (181.5281.24), FreeMarker support (1.0), GWT Support (1.0), Geronimo Integration (1.0), Gherkin (999.999), Git Integration (8.1), GitHub (181.5281.24), GlassFish Integration (1.0), Google App Engine Integration (1.1.4), Gradle (181.5281.24), Grails (9.0), Groovy (9.0), Guice (8.0), HTML Tools (2.0), HTTP Client (181.5281.24), Haml (181.5281.24), Heroku integration (181.5281.24), Hibernate Support (1.0), I18n for Java (181.5281.24), IDE Settings Sync (181.5281.24), IDEA CORE (181.5281.24), IntelliLang (8.0), J2ME (1.0), JBoss Arquillian Support (1.0), JBoss Drools Support (1.0), JBoss Frameworks Base Support (1.0), JBoss Integration (1.0), JBoss Seam Pageflow Support (1.0), JBoss Seam Pages Support (1.0), JBoss Seam Support (1.0), JBoss jBPM (2.0.0), JSR45 Integration (1.0), JUnit (1.0), Java Bytecode Decompiler (181.5281.24), Java EE: Batch Applications (1.0), Java EE: Bean Validation Support (1.1), Java EE: Contexts and Dependency Injection (1.1), Java EE: EJB, JPA, Servlets (1.0), Java EE: JMS, JSON Processing, Concurrency, Transaction  (1.0), Java EE: Java Server Faces (2.2.X.), Java EE: RESTful Web Services (JAX-RS) (1.0), Java EE: Web Services (JAX-WS) (1.9), Java EE: WebSockets (1.0), Java Server Pages (JSP) Integration (1.0), Java Stream Debugger (181.5281.24), JavaFX (1.0), JavaScript Debugger (1.0), JavaScript Intention Power Pack (0.9.4), JavaScript Support (1.0), Jetty Integration (1.0), Kotlin (1.2.31-release-IJ2018.1-1), Less support (181.5281.24), Markdown support (181.5281.24), Maven Integration (181.5281.24), Maven Integration Extension (181.5281.24), Mercurial Integration (10.0), OpenShift integration (1.0), Osmorc (1.4.11), Perforce Integration (2.0), Persistence Frameworks Support (1.0), Playframework Support (1.0), Plugin DevKit (1.0), Properties Support (181.5281.24), QuirksMode (181.5281.24), Reactor framework support (1.0), Refactor-X (2.01), Remote Hosts Access (0.1), Resin Integration (8.1), SSH Remote Run (0.1), Sass support (181.5281.24), Settings Repository (181.5281.24), Smali Support (1.0), Spring AOP/@AspectJ (1.0), Spring Batch (1.0), Spring Boot (1.0), Spring Data (1.0), Spring Integration Patterns (1.0), Spring MVC (1.0), Spring OSGi (1.0), Spring Security (1.0), Spring Support (1.0), Spring Web Flow (1.0), Spring Web Services (1.0), Spring WebSocket (1.0), Spy-js (181.5281.24), Struts 1.x (2.0), Struts 2 (1.0), Stylus support (999.999), Subversion Integration (1.1), TFS Integration (999.999), Tapestry support (1.0), Task Management (1.0), Terminal (0.1), TestNG-J (8.0), Thymeleaf (1.0), Time Tracking (1.0), Tomcat and TomEE Integration (1.0), UI Designer (181.5281.24), UML Support (1.0), Vaadin Support (1.0), Velocity support (1.0), W3C Validators (2.0), WebLogic Integration (1.0), WebSphere Integration (1.0), XPathView + XSLT Support (4), XSLT-Debugger (1.4), YAML (181.5281.24), ZKM-Unscramble (1.0), dmServer Support (0.9.5), tslint (181.5281.24) 
+2018-08-06 22:42:02,891 [   1890]   INFO - llij.ide.plugins.PluginManager - Loaded custom plugins: Lombok Plugin (0.19-2018.1), MyBatisX (.0.1.0), actiBPM (3.E-8) 
+2018-08-06 22:42:04,524 [   3523]   INFO - cloudConfig.CloudConfigManager - === Start: JBA_NOT_CONNECTED === 
+2018-08-06 22:42:04,571 [   3570]   INFO - ellij.vfs.persistent.FSRecords - Marking VFS as corrupted: 'D:\projects\ideaconfig\IntelliJIdea\system\caches\names.dat' does not exist 
+2018-08-06 22:42:04,571 [   3570]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=705 
+2018-08-06 22:42:04,587 [   3586]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: C:\Program Files\JetBrains\IntelliJ IDEA 2018.1.5\bin\fsnotifier64.exe 
+2018-08-06 22:42:04,618 [   3617]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is operational. 
+2018-08-06 22:42:04,712 [   3711]   INFO - pi.util.registry.RegistryState - Registry values changed by user: 
+2018-08-06 22:42:04,712 [   3711]   INFO - pi.util.registry.RegistryState -   SBT.system.in.process = true 
+2018-08-06 22:42:04,712 [   3711]   INFO - pi.util.registry.RegistryState -   compiler.automake.allow.when.app.running = true 
+2018-08-06 22:42:05,133 [   4132]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=0.0; restored: fontSize=12, fontScale=1.0 
+2018-08-06 22:42:05,211 [   4210]   WARN - nSystem.impl.ActionManagerImpl - keymap "Xcode" not found [Plugin: Git4Idea] 
+2018-08-06 22:42:05,227 [   4226]   WARN - nSystem.impl.ActionManagerImpl - keymap "Xcode" not found [Plugin: hg4idea] 
+2018-08-06 22:42:05,321 [   4320]   INFO - .history.utils.LocalHistoryLog - local history version mismatch (was: 0, expected: 6), rebuilding... 
+2018-08-06 22:42:05,321 [   4320]   INFO - .history.utils.LocalHistoryLog - FS has been rebuild, rebuilding local history... 
+2018-08-06 22:42:05,414 [   4413]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.ui.OptionsTopHitProvider$Activity@17883ee 
+2018-08-06 22:42:05,438 [   4437]   INFO - til.net.ssl.CertificateManager - Default SSL context initialized 
+2018-08-06 22:42:05,456 [   4455]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63342 
+2018-08-06 22:42:05,497 [   4496]   INFO - gs.impl.UpdateCheckerComponent - channel: release 
+2018-08-06 22:42:05,740 [   4739]   INFO - il.indexing.FileBasedIndexImpl - Index exts enumerated:205, number of extensions:75 
+2018-08-06 22:42:05,744 [   4743]   INFO - il.indexing.FileBasedIndexImpl - Index scheduled:4 
+2018-08-06 22:42:05,811 [   4810]   INFO - tellij.psi.stubs.StubIndexImpl - All stub exts enumerated:60, number of extensions:110 
+2018-08-06 22:42:05,811 [   4810]   INFO - tellij.psi.stubs.StubIndexImpl - stub exts update scheduled:0 
+2018-08-06 22:42:05,930 [   4929]   INFO - mbokPluginApplicationComponent - Lombok plugin initialized for IntelliJ 
+2018-08-06 22:42:05,933 [   4932]   INFO - mbokPluginApplicationComponent - Runtime path support is disabled 
+2018-08-06 22:42:06,179 [   5178]   INFO - plication.impl.ApplicationImpl - 102 application components initialized in 4510ms 
+2018-08-06 22:42:06,196 [   5195]   INFO - .intellij.idea.IdeaApplication - App initialization took 5988 ms 
+2018-08-06 22:42:06,289 [   5288]   INFO - ij.psi.stubs.StubUpdatingIndex - Following new file types will be indexed:Flow,CoffeeScript,Sass,SQL,CLASS,KJSM,ActionScript,JSX Harmony,SWF,kotlin_builtins,HTML,Stylus,SCSS,spring.factories,JSP,CFML,Groovy,ECMAScript 6,CSS,Properties,FTL,Kotlin,TypeScript,XML,JavaScript,Literate CoffeeScript,Less,TypeScript JSX,Markdown,AspectJ,JAVA 
+2018-08-06 22:42:07,208 [   6207]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2018-08-06 22:42:07,211 [   6210]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2018-08-06 22:42:07,238 [   6237]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2018-08-06 22:42:07,499 [   6498]   INFO - pl$FileIndexDataInitialization - Initialization done:1761 
+2018-08-06 22:42:07,522 [   6521]   INFO - CompilerWorkspaceConfiguration - Available processors: 8 
+2018-08-06 22:42:07,540 [   6539]   INFO - pl.projectlevelman.NewMappings - VCS Root: [] - [<Project>] 
+2018-08-06 22:42:07,540 [   6539]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [D:/projects/activitytest/activitydemo] 
+2018-08-06 22:42:07,893 [   6892]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.openapi.actionSystem.impl.ActionPreloader@40b06420 
+2018-08-06 22:42:08,364 [   7363]   INFO - exImpl$StubIndexInitialization - Initialization done:863 
+2018-08-06 22:42:08,783 [   7782]   INFO - ellij.project.impl.ProjectImpl - 185 project components initialized in 2207 ms 
+2018-08-06 22:42:09,356 [   8355]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.ui.search.SearchableOptionPreloader@c6754ba 
+2018-08-06 22:42:09,610 [   8609]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.codeInsight.completion.CompletionPreloader@1c45c4ce 
+2018-08-06 22:42:09,623 [   8622]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.actions.GotoClassPresentationUpdater@29cac9bc 
+2018-08-06 22:42:09,763 [   8762]   INFO - le.impl.ModuleManagerComponent - 2 module(s) loaded in 980 ms 
+2018-08-06 22:42:09,904 [   8903]   INFO - j.ide.script.IdeStartupScripts - 0 startup script(s) found 
+2018-08-06 22:42:09,982 [   8981]   WARN - om.intellij.util.ProfilingUtil - Profiling agent is not enabled. Add -agentlib:yjpagent to idea.vmoptions if necessary to profile IDEA. 
+2018-08-06 22:42:10,334 [   9333]   INFO - CompilerBackwardReferenceIndex - backward reference index version differ due to: class java.io.FileNotFoundException 
+2018-08-06 22:42:10,824 [   9823]   INFO - ellij.project.impl.ProjectImpl - 20 project components initialized in 16 ms 
+2018-08-06 22:42:10,886 [   9885]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 93ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-08-06 22:42:11,089 [  10088]   INFO - rojectCodeStyleSettingsManager - Initialized from default code style settings. 
+2018-08-06 22:42:11,953 [  10952]   INFO - tartup.impl.StartupManagerImpl - OpenFilesActivity run in 1145ms under project opening modal progress 
+2018-08-06 22:42:12,016 [  11015]   INFO - ge.ExternalProjectsDataStorage - Loaded external projects data in 16 millis 
+2018-08-06 22:42:12,359 [  11358]   INFO - .diagnostic.PerformanceWatcher - Post-startup activities under progress took 1598ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-08-06 22:42:12,394 [  11393]   INFO - cloudConfig.CloudConfigManager - === Start.updateInitStatus === 
+2018-08-06 22:42:12,410 [  11409]   INFO - cloudConfig.CloudConfigManager - === StatusBar.update create === 
+2018-08-06 22:42:12,410 [  11409]   INFO - cloudConfig.CloudConfigManager - === calculateInitStatus === 
+2018-08-06 22:42:12,751 [  11750]   INFO - j.ide.ui.OptionsTopHitProvider - 230 ms spent to cache options in application 
+2018-08-06 22:42:12,938 [  11937]   INFO - Json.PackageJsonUpdateNotifier - processPackageJsonFiles [] 
+2018-08-06 22:42:12,969 [  11968]   INFO - tartup.impl.StartupManagerImpl - D:/projects/activitytest/.idea case-sensitivity: expected=false actual=false 
+2018-08-06 22:42:13,000 [  11999]   INFO -  #git4idea.commands.GitHandler - [.] git version 
+2018-08-06 22:42:13,141 [  12140]   INFO -  #git4idea.commands.GitHandler - git version 2.18.0.windows.1 
+2018-08-06 22:42:13,172 [  12171]   INFO - ea.config.GitExecutableManager - Git version for C:\Program Files\Git\cmd\git.exe : 2.18.0 
+2018-08-06 22:42:13,394 [  12393]   INFO - pl.projectlevelman.NewMappings - VCS Root: [Git] - [D:/projects/activitytest/activitydemo] 
+2018-08-06 22:42:13,518 [  12517]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 7040 ms 
+2018-08-06 22:42:13,581 [  12580]   INFO - .cloudConfig.CloudConfigClient - === Get cloud config URL: https://cloudconfig.jetbrains.com/cloudconfig/files === 
+2018-08-06 22:42:14,985 [  13984]   INFO - cloudConfig.CloudConfigManager - === calculateInitStatus.value: JBA_NOT_CONNECTED === 
+2018-08-06 22:42:14,985 [  13984]   INFO - cloudConfig.CloudConfigManager - === End.updateInitStatus === 
+2018-08-06 22:42:16,304 [  15303]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 5418ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-08-06 22:42:16,314 [  15313]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update started: 57925 files to update 
+2018-08-06 22:42:16,809 [  15808]   INFO - ndex.PrebuiltIndexProviderBase - Using prebuilt sdk-stubs from D:\projects\ideaconfig\IntelliJIdea\system\index\.persistent\prebuilt\JavaScript\sdk-stubs.input 
+2018-08-06 22:42:27,926 [  26925]   WARN - dea.updater.SdkComponentSource - File C:\Users\Administrator\.android\repositories.cfg could not be loaded. 
+2018-08-06 22:42:27,926 [  26925]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/addons_list-3.xml 
+2018-08-06 22:42:28,516 [  27515]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/android/sys-img2-1.xml 
+2018-08-06 22:42:28,975 [  27974]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/android-wear/sys-img2-1.xml 
+2018-08-06 22:42:29,462 [  28461]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/android-wear-cn/sys-img2-1.xml 
+2018-08-06 22:42:29,766 [  28765]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/android-tv/sys-img2-1.xml 
+2018-08-06 22:42:30,110 [  29109]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/google_apis/sys-img2-1.xml 
+2018-08-06 22:42:30,464 [  29463]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/google_apis_playstore/sys-img2-1.xml 
+2018-08-06 22:42:30,792 [  29791]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/addon2-1.xml 
+2018-08-06 22:42:31,269 [  30268]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/glass/addon2-1.xml 
+2018-08-06 22:42:31,570 [  30569]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/extras/intel/addon2-1.xml 
+2018-08-06 22:42:31,883 [  30882]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/repository2-1.xml 
+2018-08-06 22:42:35,969 [  34968]   INFO - stubs.SerializationManagerImpl - START StubSerializationManager SHUTDOWN 
+2018-08-06 22:42:35,969 [  34968]   INFO - stubs.SerializationManagerImpl - END StubSerializationManager SHUTDOWN 
+2018-08-06 22:42:35,985 [  34984]   INFO - ution.rmi.RemoteProcessSupport - Terminating: 23374/Maven3ServerImplcf707540 
+2018-08-06 22:42:36,172 [  35171]   INFO - stubs.SerializationManagerImpl - START StubSerializationManager SHUTDOWN 
+2018-08-06 22:42:36,172 [  35171]   INFO - stubs.SerializationManagerImpl - END StubSerializationManager SHUTDOWN 
+2018-08-06 22:42:36,172 [  35171]   INFO - il.indexing.FileBasedIndexImpl - START INDEX SHUTDOWN 
+2018-08-06 22:42:37,493 [  36492]   INFO - il.indexing.FileBasedIndexImpl - END INDEX SHUTDOWN 
+2018-08-06 22:42:37,493 [  36492]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2018-08-06 22:42:37,509 [  36508]   INFO - Types.impl.FileTypeManagerImpl - FileTypeManager: 731 auto-detected files
+Elapsed time on auto-detect: 326 ms 
+2018-08-06 22:42:37,509 [  36508]   INFO - pl.local.NativeFileWatcherImpl - Watcher terminated with exit code 0 
+2018-08-06 22:42:40,535 [  39534]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update canceled 
+2018-08-06 22:42:40,750 [  39749]   INFO - mbokPluginApplicationComponent - Lombok plugin disposed for IntelliJ 
+2018-08-06 22:42:40,750 [  39749]   INFO - newvfs.persistent.PersistentFS - VFS dispose started 
+2018-08-06 22:42:40,765 [  39764]   INFO - newvfs.persistent.PersistentFS - VFS dispose completed 
+2018-08-06 22:42:40,765 [  39764]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE SHUTDOWN ------------------------------------------------------ 
+2018-08-06 22:42:40,765 [  39764]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 

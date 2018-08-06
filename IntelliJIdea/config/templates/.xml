@@ -1,0 +1,15 @@
+<templateSet group="方法">
+  <template name="main" value="public static void main(String[] args){&#10;    $END$&#10;}" description="main" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="psc" value="/**&#10; * $var1$&#10; */&#10; private String $var2$ ;&#10; &#10; $var3$" description="s" toReformat="false" toShortenFQNames="true">
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="var2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="var3" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

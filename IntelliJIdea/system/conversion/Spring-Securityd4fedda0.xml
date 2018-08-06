@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="build-jar-configurations-to-artifacts" />
+    <converter id="detach-cdi-facet-from-module" />
+    <converter id="detach-jsf-facet-from-module" />
+    <converter id="google-app-engine-facet" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+    <converter id="gwt-packaging" />
+    <converter id="javaee-module-to-facets" />
+    <converter id="javaee-packaging-to-artifacts" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+    <converter id="junit-to-android-junit-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="D:\projects\security\Spring-Security\.idea\compiler.xml" timestamp="1530892286772" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__aopalliance_aopalliance_1_0.xml" timestamp="1530892286816" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__ch_qos_logback_logback_classic_1_1_11.xml" timestamp="1530892286833" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__ch_qos_logback_logback_core_1_1_11.xml" timestamp="1530892286850" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__com_fasterxml_classmate_1_3_3.xml" timestamp="1530892286862" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" timestamp="1530892286878" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_core_2_8_9.xml" timestamp="1530892286892" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__com_fasterxml_jackson_core_jackson_databind_2_8_9.xml" timestamp="1530892286903" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__com_flipkart_zjsonpatch_zjsonpatch_0_2_1.xml" timestamp="1530892286913" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__com_github_jknack_handlebars_4_0_6.xml" timestamp="1530892286927" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__com_github_tomakehurst_wiremock_2_5_1.xml" timestamp="1530892286936" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__com_google_guava_guava_20_0.xml" timestamp="1530892286948" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__com_jayway_jsonpath_json_path_2_2_0.xml" timestamp="1530892286960" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" timestamp="1530892286969" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__commons_beanutils_commons_beanutils_1_9_3.xml" timestamp="1530892286980" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__commons_codec_commons_codec_1_10.xml" timestamp="1530892286992" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__commons_collections_commons_collections_3_2_2.xml" timestamp="1530892287003" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__commons_io_commons_io_2_5.xml" timestamp="1530892287024" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__commons_lang_commons_lang_2_6.xml" timestamp="1530892287034" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__io_springfox_springfox_core_2_7_0.xml" timestamp="1530892287047" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__io_springfox_springfox_schema_2_7_0.xml" timestamp="1530892287058" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__io_springfox_springfox_spi_2_7_0.xml" timestamp="1530892287073" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__io_springfox_springfox_spring_web_2_7_0.xml" timestamp="1530892287098" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__io_springfox_springfox_swagger2_2_7_0.xml" timestamp="1530892287114" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__io_springfox_springfox_swagger_common_2_7_0.xml" timestamp="1530892287129" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__io_springfox_springfox_swagger_ui_2_7_0.xml" timestamp="1530892287141" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__io_swagger_swagger_annotations_1_5_13.xml" timestamp="1530892287150" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__io_swagger_swagger_models_1_5_13.xml" timestamp="1530892287163" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__javax_inject_javax_inject_1.xml" timestamp="1530892287178" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__javax_validation_validation_api_1_1_0_Final.xml" timestamp="1530892287191" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__junit_junit_4_12.xml" timestamp="1530892287204" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__mysql_mysql_connector_java_5_1_43.xml" timestamp="1530892287216" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__net_bytebuddy_byte_buddy_1_6_14.xml" timestamp="1530892287225" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__net_minidev_accessors_smart_1_1.xml" timestamp="1530892287236" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__net_minidev_json_smart_2_2_1.xml" timestamp="1530892287245" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_antlr_antlr4_runtime_4_5_1_1.xml" timestamp="1530892287255" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_apache_commons_commons_collections4_4_0.xml" timestamp="1530892287264" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_apache_commons_commons_lang3_3_5.xml" timestamp="1530892287274" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_apache_commons_commons_pool2_2_4_2.xml" timestamp="1530892287285" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_apache_shiro_shiro_core_1_2_2.xml" timestamp="1530892287297" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_16.xml" timestamp="1530892287310" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_16.xml" timestamp="1530892287319" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_16.xml" timestamp="1530892287330" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_apache_tomcat_tomcat_jdbc_8_5_16.xml" timestamp="1530892287343" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_apache_tomcat_tomcat_juli_8_5_16.xml" timestamp="1530892287354" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_aspectj_aspectjweaver_1_8_10.xml" timestamp="1530892287365" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_assertj_assertj_core_2_6_0.xml" timestamp="1530892287378" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_bouncycastle_bcpkix_jdk15on_1_56.xml" timestamp="1530892287387" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_bouncycastle_bcprov_jdk15on_1_56.xml" timestamp="1530892287396" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" timestamp="1530892287405" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" timestamp="1530892287413" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_hamcrest_hamcrest_core_1_3.xml" timestamp="1530892287423" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_hamcrest_hamcrest_library_1_3.xml" timestamp="1530892287433" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_hibernate_hibernate_validator_5_3_5_Final.xml" timestamp="1530892287442" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_javassist_javassist_3_21_0_GA.xml" timestamp="1530892287452" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_jboss_logging_jboss_logging_3_3_1_Final.xml" timestamp="1530892287460" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_mapstruct_mapstruct_1_1_0_Final.xml" timestamp="1530892287468" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_mockito_mockito_core_1_10_19.xml" timestamp="1530892287477" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_objenesis_objenesis_2_5_1.xml" timestamp="1530892287487" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_ow2_asm_asm_5_0_3.xml" timestamp="1530892287496" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_reflections_reflections_0_9_11.xml" timestamp="1530892287506" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_skyscreamer_jsonassert_1_4_0.xml" timestamp="1530892287514" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_slf4j_jcl_over_slf4j_1_7_25.xml" timestamp="1530892287522" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" timestamp="1530892287531" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_slf4j_log4j_over_slf4j_1_7_25.xml" timestamp="1530892287542" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_slf4j_slf4j_api_1_7_25.xml" timestamp="1530892287551" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_springframework_boot_spring_boot_1_5_6_RELEASE.xml" timestamp="1530892287561" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_springframework_boot_spring_boot_actuator_1_5_6_RELEASE.xml" timestamp="1530892287570" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_6_RELEASE.xml" timestamp="1530892287580" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_springframework_boot_spring_boot_configuration_processor_1_5_6_RELEASE.xml" timestamp="1530892287593" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_1_5_6_RELEASE.xml" timestamp="1530892287607" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_actuator_1_5_6_RELEASE.xml" timestamp="1530892287617" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_aop_1_5_6_RELEASE.xml" timestamp="1530892287630" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_data_redis_1_5_6_RELEASE.xml" timestamp="1530892287643" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_jdbc_1_5_6_RELEASE.xml" timestamp="1530892287653" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_logging_1_5_6_RELEASE.xml" timestamp="1530892287662" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_security_1_5_6_RELEASE.xml" timestamp="1530892287686" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_test_1_5_6_RELEASE.xml" timestamp="1530892287699" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_tomcat_1_5_6_RELEASE.xml" timestamp="1530892287723" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_springframework_boot_spring_boot_starter_web_1_5_6_RELEASE.xml" timestamp="1530892287733" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_springframework_boot_spring_boot_test_1_5_6_RELEASE.xml" timestamp="1530892287745" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_springframework_boot_spring_boot_test_autoconfigure_1_5_6_RELEASE.xml" timestamp="1530892287757" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_springframework_cloud_spring_cloud_commons_1_2_3_RELEASE.xml" timestamp="1530892287768" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_springframework_cloud_spring_cloud_context_1_2_3_RELEASE.xml" timestamp="1530892287779" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_springframework_cloud_spring_cloud_security_1_2_1_RELEASE.xml" timestamp="1530892287790" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_springframework_cloud_spring_cloud_starter_1_2_3_RELEASE.xml" timestamp="1530892287799" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_springframework_cloud_spring_cloud_starter_oauth2_1_2_1_RELEASE.xml" timestamp="1530892287808" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_springframework_cloud_spring_cloud_starter_security_1_2_1_RELEASE.xml" timestamp="1530892287816" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_springframework_data_spring_data_commons_1_13_6_RELEASE.xml" timestamp="1530892287825" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_springframework_data_spring_data_keyvalue_1_2_6_RELEASE.xml" timestamp="1530892287835" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_springframework_data_spring_data_redis_1_8_6_RELEASE.xml" timestamp="1530892287844" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml" timestamp="1530892287854" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_springframework_plugin_spring_plugin_metadata_1_2_0_RELEASE.xml" timestamp="1530892287863" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_springframework_security_oauth_spring_security_oauth2_2_0_14_RELEASE.xml" timestamp="1530892287873" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_springframework_security_spring_security_config_4_2_3_RELEASE.xml" timestamp="1530892287882" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_springframework_security_spring_security_core_4_2_3_RELEASE.xml" timestamp="1530892287892" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_springframework_security_spring_security_crypto_4_2_3_RELEASE.xml" timestamp="1530892287902" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_springframework_security_spring_security_jwt_1_0_8_RELEASE.xml" timestamp="1530892287911" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_springframework_security_spring_security_rsa_1_0_3_RELEASE.xml" timestamp="1530892287924" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_springframework_security_spring_security_web_4_2_3_RELEASE.xml" timestamp="1530892287937" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_springframework_session_spring_session_1_3_1_RELEASE.xml" timestamp="1530892287952" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_springframework_social_spring_social_config_1_1_4_RELEASE.xml" timestamp="1530892287968" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_springframework_social_spring_social_core_1_1_4_RELEASE.xml" timestamp="1530892287982" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_springframework_social_spring_social_security_1_1_4_RELEASE.xml" timestamp="1530892287996" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_springframework_social_spring_social_web_1_1_4_RELEASE.xml" timestamp="1530892288011" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_springframework_spring_aop_4_3_10_RELEASE.xml" timestamp="1530892288031" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_springframework_spring_beans_4_3_10_RELEASE.xml" timestamp="1530892288048" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_springframework_spring_context_4_3_10_RELEASE.xml" timestamp="1530892288063" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_springframework_spring_context_support_4_3_10_RELEASE.xml" timestamp="1530892288075" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_springframework_spring_core_4_3_10_RELEASE.xml" timestamp="1530892288085" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_springframework_spring_expression_4_3_10_RELEASE.xml" timestamp="1530892288095" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_springframework_spring_jdbc_4_3_10_RELEASE.xml" timestamp="1530892288103" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_springframework_spring_oxm_4_3_10_RELEASE.xml" timestamp="1530892288112" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_springframework_spring_test_4_3_10_RELEASE.xml" timestamp="1530892288123" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_springframework_spring_tx_4_3_10_RELEASE.xml" timestamp="1530892288139" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_springframework_spring_web_4_3_10_RELEASE.xml" timestamp="1530892288152" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_springframework_spring_webmvc_4_3_10_RELEASE.xml" timestamp="1530892288167" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_xmlunit_xmlunit_core_2_3_0.xml" timestamp="1530892288182" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_xmlunit_xmlunit_legacy_2_3_0.xml" timestamp="1530892288197" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__org_yaml_snakeyaml_1_17.xml" timestamp="1530892288212" />
+    <file path="D:\projects\security\Spring-Security\.idea\libraries\Maven__redis_clients_jedis_2_9_0.xml" timestamp="1530892288227" />
+    <file path="D:\projects\security\Spring-Security\.idea\misc.xml" timestamp="1530892286744" />
+    <file path="D:\projects\security\Spring-Security\.idea\modules.xml" timestamp="1530892286785" />
+    <file path="D:\projects\security\Spring-Security\.idea\vcs.xml" timestamp="1530892286759" />
+    <file path="D:\projects\security\Spring-Security\.idea\workspace.xml" timestamp="1530947890917" />
+    <file path="D:\projects\security\Spring-Security\security-app\security-app.iml" timestamp="1530892286708" />
+    <file path="D:\projects\security\Spring-Security\security-browser\security-browser.iml" timestamp="1530892286697" />
+    <file path="D:\projects\security\Spring-Security\security-core\security-core.iml" timestamp="1530892286676" />
+    <file path="D:\projects\security\Spring-Security\security-demo\security-demo.iml" timestamp="1530892286687" />
+    <file path="D:\projects\security\Spring-Security\security.iml" timestamp="1530892286716" />
+  </project-files>
+</conversion>
+

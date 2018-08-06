@@ -1,0 +1,160 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="D:/projects/activitytest" />
+        <option value="D:/projects/security/testoauth-jdbc" />
+        <option value="D:/projects/security/uaa-zuul-test" />
+        <option value="D:/projects/gyc" />
+        <option value="D:/projects/security/oauth2" />
+        <option value="D:/projects/security/oauthserver" />
+        <option value="D:/projects/security/Spring-Security" />
+        <option value="D:/projects/iBase4J" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="D:/projects/activitytest" />
+      </list>
+    </option>
+    <option name="lastPath" value="D:/projects/activitytest" />
+    <option name="pid" value="" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="D:/projects/activitytest">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-181.5281.24" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1533566555578" />
+              <option name="buildTimestamp" value="1528805045498" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/projects/gyc">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-181.5281.24" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1532875074960" />
+              <option name="buildTimestamp" value="1528805056406" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/projects/iBase4J">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-181.5281.24" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1530364519516" />
+              <option name="buildTimestamp" value="1528805057892" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/projects/security/Spring-Security">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-181.5281.24" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1530947890950" />
+              <option name="buildTimestamp" value="1528805093462" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/projects/security/activiytest">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-181.5281.24" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1532871808917" />
+              <option name="buildTimestamp" value="1528805058887" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/projects/security/oauth2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-181.5281.24" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1532010382549" />
+              <option name="buildTimestamp" value="1528805068638" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/projects/security/oauthserver">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-181.5281.24" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1531401269705" />
+              <option name="buildTimestamp" value="1528805067453" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/projects/security/spring-cloud-security-oauth2-jdbc">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-181.5281.24" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1531926159636" />
+              <option name="buildTimestamp" value="1528805044183" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/projects/security/spring-cloud-security-oauth2-jwt">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-181.5281.24" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1531398901858" />
+              <option name="buildTimestamp" value="1528805067453" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/projects/security/testoauth-jdbc">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-181.5281.24" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1532875211825" />
+              <option name="buildTimestamp" value="1528805056406" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/projects/security/uaa-zuul">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-181.5281.24" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1532009266624" />
+              <option name="buildTimestamp" value="1528805075641" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/projects/security/uaa-zuul-test">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-181.5281.24" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1532875070682" />
+              <option name="buildTimestamp" value="1528805056406" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="D:/projects/security" />
+  </component>
+</application>
