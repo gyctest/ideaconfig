@@ -49,6 +49,8 @@
     <location key="#Auto_Import.0.0.1920.1080" x="1464" y="139" />
     <location key="MergeDialog.0.0.1920.1080" x="172" y="60" />
     <location key="MultipleFileMergeDialog.0.0.1920.1080" x="652" y="250" />
+    <location key="#Browse_Repositories.0.0.1366.768" x="262" y="19" />
+    <location key="SettingsEditor.0.0.1366.768" x="161" y="9" />
     <size key="ProcessPopupWindow.0.0.1920.1080" width="400" height="120" />
     <size key="bookmarks.0.0.1920.1080" width="864" height="346" />
     <size key="find.popup.0.0.1920.1080" width="638" height="673" />

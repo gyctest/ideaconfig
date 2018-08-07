@@ -10,7 +10,7 @@
     <property name="FrameworksFinderRecursivePanel[0]" value="0.15302218" />
     <property name="INSPECTION_FILTER_HISTORY" value="spring" />
     <property name="JUnitSupport.hidePassedTests" value="false" />
-    <property name="KEYMAP" value="new&#10;add" />
+    <property name="KEYMAP" value="show in expl&#10;synch&#10;show&#10;new&#10;add" />
     <property name="LayoutCode.optimizeImports" value="true" />
     <property name="LiveContextsPanel[0]" value="0.2247191" />
     <property name="LiveContextsPanel[1]" value="0.16380017" />
@@ -18,7 +18,7 @@
     <property name="MavenModuleWizard.inheritVersion" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
-    <property name="PLUGIN_FILTER" value="mybat&#10;bpm&#10;actiBPM&#10;BPMN&#10;BPMN2.0" />
+    <property name="PLUGIN_FILTER" value="nginx&#10;bat&#10;mybat&#10;bpm&#10;actiBPM" />
     <property name="SearchEveryWhereHistory" value="InvalidClientException&#10;MyUserDetailsService&#10;AuthorizationEndpoint&#10;FrameworkEndpointHandlerMapping&#10;Arraylist" />
     <property name="SettingsSearchHistory" value="git&#10;maven&#10;tomcat&#10;mav&#10;live templ" />
     <property name="SplitFileEditor.Proportion" value="0.2636816" />

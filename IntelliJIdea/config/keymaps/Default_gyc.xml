@@ -1,5 +1,5 @@
 <keymap version="1" name="Default_gyc" parent="$default">
   <action id="RevealIn">
-    <mouse-shortcut keystroke="button3 doubleClick" />
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
 </keymap>
